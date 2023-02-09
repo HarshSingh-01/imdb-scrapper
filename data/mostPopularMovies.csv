@@ -1,0 +1,475 @@
+,rank,movie_name,movie_url,movie_year,genre,director_name,rating,cast_and_crew
+0,1.0,You People,https://www.imdb.com/title/tt14826022/,2023,Comedy,Kenya Barris,5.5,"['Jonah Hill' 'Lauren London' 'Eddie Murphy' 'Julia Louis-Dreyfus'
+ 'Sam Jay' 'Nia Long' 'Travis Bennett' 'David Duchovny' 'Molly Gordon'
+ 'Deon Cole' 'Andrea Savage' 'Elliott Gould' 'Rhea Perlman' 'Mike Epps'
+ 'La La Anthony' 'Yung Miami' 'Khadijah Haqq' 'Bryan Greenberg']"
+1,2.0,Babylon,https://www.imdb.com/title/tt10640346/,2022,Comedy,Damien Chazelle,7.4,"['Brad Pitt' 'Margot Robbie' 'Jean Smart' 'Olivia Wilde' 'J.C. Currais'
+ 'Diego Calva' 'Jimmy Ortega' 'Marcos A. Ferraez' 'Shane Powers'
+ 'Phoebe Tonkin' 'Troy Metcalf' 'Jovan Adepo' 'Hansford Prince'
+ 'Telvin Griffin' 'Cutty Cuthbert' 'Albert Hammond Jr.' 'Flea'
+ 'Bregje Heinen']"
+2,3.0,Black Panther: Wakanda Forever,https://www.imdb.com/title/tt9114286/,2022,Action,Ryan Coogler,6.9,"['Letitia Wright' ""Lupita Nyong'o"" 'Danai Gurira' 'Winston Duke'
+ 'Angela Bassett' 'Tenoch Huerta' 'Martin Freeman' 'Julia Louis-Dreyfus'
+ 'Dominique Thorne' 'Florence Kasumba' 'Michaela Coel' 'Alex Livinalli'
+ 'Mabel Cadena' 'Michael B. Jordan' 'Isaach De Bankole' 'Danny Sapani'
+ 'Dorothy Steel' 'Zainab Jah']"
+3,4.0,Avatar: The Way of Water,https://www.imdb.com/title/tt1630029/,2022,Action,James Cameron,7.8,"['Sam Worthington' 'Zoe Saldana' 'Sigourney Weaver' 'Stephen Lang'
+ 'Kate Winslet' 'Cliff Curtis' 'Joel David Moore' 'CCH Pounder'
+ 'Edie Falco' 'Brendan Cowell' 'Jemaine Clement' 'Jamie Flatters'
+ 'Britain Dalton' 'Trinity Jo-Li Bliss' 'Jack Champion' 'Bailey Bass'
+ 'Filip Geljo' 'Duane Evans Jr.']"
+4,5.0,The Menu,https://www.imdb.com/title/tt9764362/,2022,Horror,Mark Mylod,7.2,"['Ralph Fiennes' 'Anya Taylor-Joy' 'Nicholas Hoult' 'Hong Chau'
+ 'Janet McTeer' 'Paul Adelstein' 'John Leguizamo' 'Aimee Carrero'
+ 'Reed Birney' 'Judith Light' 'Rebecca Koon' 'Rob Yang' 'Arturo Castro'
+ 'Mark St. Cyr' 'Peter Grosz' 'Christina Brucato' 'Adam Aalderks'
+ 'Jon Paul Allyn']"
+5,6.0,Shotgun Wedding,https://www.imdb.com/title/tt9686790/,2022,Action,Jason Moore,5.5,"['Jennifer Lopez' 'Josh Duhamel' 'Lenny Kravitz' 'Jennifer Coolidge'
+ 'Sonia Braga' 'Cheech Marin' 'Steve Coulter' ""D'Arcy Carden""
+ 'Callie Hernandez' 'Desmin Borges' 'Selena Tan' 'Alberto Isaac'
+ 'Melissa Hunter' 'Pancho Cardena' 'Alex Mallari Jr.' 'Tharoth Sam'
+ 'Worapojd Thautanon' 'Zachary Wood']"
+6,7.0,The Banshees of Inisherin,https://www.imdb.com/title/tt11813216/,2022,Comedy,Martin McDonagh,7.8,"['Colin Farrell' 'Brendan Gleeson' 'Kerry Condon' 'Pat Shortt'
+ 'Gary Lydon' 'Jon Kenny' 'Barry Keoghan' 'Sheila Flitton' 'John Carty'
+ 'Oliver Farrelly' 'Lasairfhiona Ni Chonaola' 'David Pearse'
+ 'Brid Ni Neachtain' 'Aaron Monaghan' 'James Carty' 'Conor Connolly'
+ 'Ryan Owens' 'Jenny']"
+7,8.0,The Banshees of Inisherin,https://www.imdb.com/title/tt6710474/,2022,Comedy,Martin McDonagh,7.8,"['Colin Farrell' 'Brendan Gleeson' 'Kerry Condon' 'Pat Shortt'
+ 'Gary Lydon' 'Jon Kenny' 'Barry Keoghan' 'Sheila Flitton' 'John Carty'
+ 'Oliver Farrelly' 'Lasairfhiona Ni Chonaola' 'David Pearse'
+ 'Brid Ni Neachtain' 'Aaron Monaghan' 'James Carty' 'Conor Connolly'
+ 'Ryan Owens' 'Jenny']"
+8,9.0,Knock at the Cabin,https://www.imdb.com/title/tt15679400/,2023,Horror,M. Night Shyamalan,6.4,"['Dave Bautista' 'Jonathan Groff' 'Rupert Grint' 'Nikki Amuka-Bird'
+ 'Ben Aldridge' 'Abby Quinn' 'Kristen Cui' 'McKenna Kerrigan'
+ 'Ian Merrill Peakes' 'Denise Nakano' 'Rose Luardo' 'Billy Vargus'
+ 'Satomi Hofmann' 'Kevin Leung' 'Lee Avant' 'Odera Adimorah' 'Kat Murphy'
+ ""Kittson O'Neill""]"
+9,10.0,M3gan,https://www.imdb.com/title/tt8760708/,2022,Horror,Gerard Johnstone,6.4,"['Allison Williams' 'Violet McGraw' 'Ronny Chieng' 'Amie Donald'
+ 'Jenna Davis' 'Brian Jordan Alvarez' 'Jen Van Epps'
+ 'Stephane Garneau-Monten' 'Lori Dungey' 'Amy Usherwood' 'Jack Cassidy'
+ 'Michael Saccente' 'Samson Chan-Boon' 'Kira Josephson' 'Renee Lyons'
+ 'Millen Baird' 'Chelsie Florence' 'Arlo Green']"
+10,11.0,Infinity Pool,https://www.imdb.com/title/tt10365998/,2023,Crime,Brandon Cronenberg,6.8,"['Alexander Skarsgard' 'Mia Goth' 'Cleopatra Coleman' 'Dunja Sepcic'
+ 'Adam Boncz' 'Jalil Lespert' 'Zijad Gracic' 'Amar Bukvic' 'Alan Katic'
+ 'Thomas Kretschmann' 'Katalin Laban' 'Kamilla Fatyol' 'Lena Juka Stambuk'
+ 'Kristof Kovacs' 'Romina Tonkovic' 'Amanda Brugel' 'Jeff Ricketts'
+ 'John Ralston']"
+11,12.0,Teen Wolf: The Movie,https://www.imdb.com/title/tt15486810/,2023,Action,Russell Mulcahy,5.7,"['Tyler Posey' 'Crystal Reed' 'Holland Roden' 'Tyler Hoechlin'
+ 'Shelley Hennig' 'JR Bourne' 'Colton Haynes' 'Linden Ashby'
+ 'Melissa Ponzio' 'Ryan Kelley' 'Seth Gilliam' 'Ian Bohen'
+ 'Dylan Sprayberry' 'Orny Adams' 'Vince Mattis' 'Amy L. Workman'
+ 'Adam Fristoe' 'Aaron Hendry']"
+12,13.0,Pathan,https://www.imdb.com/title/tt12844910/,2023,Action,Siddharth Anand,6.6,"['Shah Rukh Khan' 'Deepika Padukone' 'John Abraham' 'Dimple Kapadia'
+ 'Ashutosh Rana' 'Salman Khan' 'Aakash Bhatija' 'Prakash Belawadi'
+ 'Viraf Patel' 'Shaji Chaudhary' 'Diganta Hazarika' 'Rajat Kaul'
+ 'Prem Jhangiani' 'Grace Girdhar' 'Ashutosh Singh' 'Amanpreet Hundal'
+ 'Nikhat Khan' 'Bashir Lone']"
+13,14.0,Puss in Boots: The Last Wish,https://www.imdb.com/title/tt3915174/,2022,Animation,Joel Crawford,7.9,"['Antonio Banderas' 'Salma Hayek' 'Harvey Guillen' 'Florence Pugh'
+ 'Olivia Colman' 'Ray Winstone' 'Samson Kayo' 'John Mulaney'
+ 'Wagner Moura' ""Da'Vine Joy Randolph"" 'Anthony Mendez' 'Kevin McCann'
+ 'Bernardo De Paula' 'Betsy Sodaro' 'Artemis Pebdani' 'Conrad Vernon'
+ 'Cody Cameron' 'Kailey Crawford']"
+14,15.0,Plane,https://www.imdb.com/title/tt5884796/,2023,Action,Jean-François Richet,6.6,"['Gerard Butler' 'Mike Colter' 'Tony Goldwyn' 'Yoson An'
+ 'Evan Dane Taylor' 'Paul Ben-Victor' 'Daniella Pineda' 'Lilly Krug'
+ 'Kelly Gale' 'Otis Winston' 'Angel Fabian Rivera' 'Fernando Chang'
+ 'Modesto Lacen' 'Joey Slotnick' 'Rose Eshay' 'Ricky Robles Cruz'
+ 'Jessica Nam' 'Quinn McPherson']"
+15,16.0,Tár,https://www.imdb.com/title/tt14444726/,2022,Drama,Todd Field,7.6,"['Cate Blanchett' 'Noemie Merlant' 'Nina Hoss' 'Sophie Kauer'
+ 'Adam Gopnik' 'Marc-Martin Straub' 'Egon Brandstetter' 'Ylva Pollak'
+ 'Paula Forst' 'Sylvia Flote' 'Sydney Lemmon' 'Mark Strong'
+ 'Nicolas Hopchet' 'Zethphan D. Smith-Gneist' 'Kitty Watson'
+ 'Alec Baldwin' 'Jessica Hansen' 'Mila Bogojevic']"
+16,17.0,The Fabelmans,https://www.imdb.com/title/tt14208870/,2022,Drama,Steven Spielberg,7.7,"['Michelle Williams' 'Gabriel LaBelle' 'Paul Dano' 'Judd Hirsch'
+ 'Seth Rogen' 'Mateo Zoryan' 'Keeley Karsten' 'Alina Brace'
+ 'Julia Butters' 'Birdie Borria' 'Sophia Kopera' 'Jeannie Berlin'
+ 'Robin Bartlett' 'Sam Rechner' 'Oakes Fegley' 'Chloe East'
+ 'Isabelle Kusman' 'Chandler Lovelle']"
+17,18.0,Glass Onion: A Knives Out Mystery,https://www.imdb.com/title/tt11564570/,2022,Comedy,Rian Johnson,7.2,"['Daniel Craig' 'Edward Norton' 'Kate Hudson' 'Dave Bautista'
+ 'Janelle Monae' 'Kathryn Hahn' 'Leslie Odom Jr.' 'Jessica Henwick'
+ 'Madelyn Cline' 'Noah Segan' 'Jackie Hoffman' 'Dallas Roberts'
+ 'Ethan Hawke' 'Hugh Grant' 'Stephen Sondheim' 'Natasha Lyonne'
+ 'Kareem Abdul-Jabbar' 'Serena Williams']"
+18,19.0,Elvis,https://www.imdb.com/title/tt3704428/,2022,Biography,Baz Luhrmann,7.4,"['Tom Hanks' 'Austin Butler' 'Olivia DeJonge' 'Helen Thomson'
+ 'Richard Roxburgh' 'Kelvin Harrison Jr.' 'David Wenham'
+ 'Kodi Smit-McPhee' 'Luke Bracey' 'Dacre Montgomery' 'Leon Ford'
+ 'Gary Clark Jr.' 'Yola' 'Natasha Bassett' 'Xavier Samuel' 'Adam Dunn'
+ 'Alton Mason' 'Shonka Dukureh']"
+19,20.0,The Whale,https://www.imdb.com/title/tt13833688/,2022,Drama,Darren Aronofsky,8.0,"['Brendan Fraser' 'Sadie Sink' 'Ty Simpkins' 'Hong Chau' 'Samantha Morton'
+ 'Sathya Sridharan' 'Jacey Sink' 'Wilhelm Schalaudek']"
+20,21.0,All Quiet on the Western Front,https://www.imdb.com/title/tt1016150/,2022,Action,Edward Berger,7.8,"['Felix Kammerer' 'Albrecht Schuch' 'Aaron Hilmer' 'Moritz Klaus'
+ 'Adrian Grunewald' 'Edin Hasanovic' 'Daniel Bruhl'
+ 'Thibault de Montalembert' 'Devid Striesow' 'Andreas Dohler'
+ 'Sebastian Hulk' 'Luc Feit' 'Michael Wittenborn' 'Michael Stange'
+ 'Sascha Nathan' 'Tobias Langhoff' 'Anton von Lucke' 'Michael Pitthan']"
+21,22.0,Triangle of Sadness,https://www.imdb.com/title/tt7322224/,2022,Comedy,Ruben Östlund,7.5,"['Thobias Thorwid' 'Harris Dickinson' 'Charlbi Dean' 'Jiannis Moustos'
+ 'Vicki Berlin' 'Dolly De Leon' 'Timoleon Gketsos' 'Alicia Eriksson'
+ 'Woody Harrelson' 'Zlatko Buric' 'Sunnyi Melles' 'Carolina Gynning'
+ 'Iris Berben' 'Amanda Walker' 'Oliver Ford Davies' 'Ralph Schicha'
+ 'Henrik Dorsin' 'Arvin Kananian']"
+22,23.0,A Man Called Otto,https://www.imdb.com/title/tt7405458/,2022,Comedy,Marc Forster,7.6,"['Tom Hanks' 'Mariana Trevino' 'Rachel Keller' 'John Higgins'
+ 'Tony Bingham' 'Lily Kozub' 'Mack Bayda' 'Cameron Britton'
+ 'Juanita Jennings' 'Peter Lawson Jones' 'Max Pavel' 'Kailey Hyman'
+ 'Peter Sipla' 'Patrick Stanny' 'Allyson R. Hood' 'Carl Clemons'
+ 'Connor McCanlus' 'Kristy Nolen']"
+23,24.0,The Pale Blue Eye,https://www.imdb.com/title/tt14138650/,2022,Crime,Scott Cooper,6.6,"['Christian Bale' 'Harry Melling' 'Simon McBurney' 'Timothy Spall'
+ 'Toby Jones' 'Harry Lawtey' 'Fred Hechinger' 'Joey Brooks'
+ 'Charlotte Gainsbourg' 'Lucy Boynton' 'Robert Duvall' 'Gillian Anderson'
+ 'Steven Maier' 'Brennan Keel Cook' 'Orlagh Cassidy' 'Scott Anderson'
+ 'Gideon Glick' 'Jack Irv']"
+24,25.0,X,https://www.imdb.com/title/tt13560574/,2022,Horror,Ti West,6.6,"['Mia Goth' 'Jenna Ortega' 'Brittany Snow' 'Kid Cudi' 'Martin Henderson'
+ 'Owen Campbell' 'Stephen Ure' 'James Gaylyn' 'Simon Prast' 'Geoff Dolan'
+ 'Matthew J. Saville' 'Bryony Skillington']"
+25,26.0,80 for Brady,https://www.imdb.com/title/tt18079362/,2023,Comedy,Kyle Marvin,6.0,"['Rita Moreno' 'Sally Field' 'Jane Fonda' 'Lily Tomlin' 'Patton Oswalt'
+ 'Sara Gilbert' 'Harry Hamlin' 'Sally Kirkland' 'Tom Brady' 'Glynn Turman'
+ 'Bob Balaban' 'Jimmy O. Yang' 'Ron Funches' 'Rebecca Field'
+ 'Rob Gronkowski' 'Zina Wilde' 'Danny Amendola' 'Julian Edelman']"
+26,27.0,Murder Mystery 2,https://www.imdb.com/title/tt15255288/,2023,Action,Jeremy Garelick,6.0,"['Rita Moreno' 'Sally Field' 'Jane Fonda' 'Lily Tomlin' 'Patton Oswalt'
+ 'Sara Gilbert' 'Harry Hamlin' 'Sally Kirkland' 'Tom Brady' 'Glynn Turman'
+ 'Bob Balaban' 'Jimmy O. Yang' 'Ron Funches' 'Rebecca Field'
+ 'Rob Gronkowski' 'Zina Wilde' 'Danny Amendola' 'Julian Edelman']"
+27,28.0,Aftersun,https://www.imdb.com/title/tt19770238/,2022,Drama,Charlotte Wells,7.7,"['Paul Mescal' 'Frankie Corio' 'Celia Rowlson-Hall' 'Sally Messham'
+ 'Ayse Parlak' 'Sophia Lamanova' 'Brooklyn Toulson' 'Spike Fearn'
+ 'Harry Perdios' 'Frank Corio' 'Ruby Thompson' 'Ethan James Smith'
+ 'Onur Eksioglu' 'Cafer Karahan' 'Kayleigh Coleman' 'John Stuifzand'
+ 'Tyler Mutlu' 'Kieran Burton']"
+28,29.0,Top Gun: Maverick,https://www.imdb.com/title/tt1745960/,2022,Action,Joseph Kosinski,8.3,"['Tom Cruise' 'Jennifer Connelly' 'Miles Teller' 'Val Kilmer'
+ 'Bashir Salahuddin' 'Jon Hamm' 'Charles Parnell' 'Monica Barbaro'
+ 'Lewis Pullman' 'Jay Ellis' 'Danny Ramirez' 'Glen Powell'
+ 'Jack Schumacher' 'Manny Jacinto' 'Kara Wang' 'Greg Tarzan Davis'
+ 'Jake Picking' 'Raymond Lee']"
+29,30.0,Bullet Train,https://www.imdb.com/title/tt12593682/,2022,Action,David Leitch,7.3,"['Brad Pitt' 'Joey King' 'Aaron Taylor-Johnson' 'Brian Tyree Henry'
+ 'Andrew Koji' 'Hiroyuki Sanada' 'Michael Shannon' 'Sandra Bullock'
+ 'Bad Bunny' 'Logan Lerman' 'Zazie Beetz' 'Masi Oka' 'Karen Fukuhara'
+ 'Kevin Akiyoshi Ching' 'Minchi Murakami' 'Kaori Taketani'
+ 'Toshitaka Katsumi' 'Jim Garrity']"
+30,31.0,Groundhog Day,https://www.imdb.com/title/tt0107048/,1993,Comedy,Harold Ramis,8.1,"['Bill Murray' 'Andie MacDowell' 'Chris Elliott' 'Stephen Tobolowsky'
+ 'Brian Doyle-Murray' 'Marita Geraghty' 'Angela Paton' 'Rick Ducommun'
+ 'Rick Overton' 'Robin Duke' 'Carol Bivins' 'Willie Garson'
+ 'Ken Hudson Campbell' 'Les Podewell' 'Rod Sell' 'Tom Milanovich'
+ 'John M. Watson Sr.' 'Peggy Roeder']"
+31,32.0,Cocaine Bear,https://www.imdb.com/title/tt14209916/,2023,Thriller,Elizabeth Banks,8.1,"['Bill Murray' 'Andie MacDowell' 'Chris Elliott' 'Stephen Tobolowsky'
+ 'Brian Doyle-Murray' 'Marita Geraghty' 'Angela Paton' 'Rick Ducommun'
+ 'Rick Overton' 'Robin Duke' 'Carol Bivins' 'Willie Garson'
+ 'Ken Hudson Campbell' 'Les Podewell' 'Rod Sell' 'Tom Milanovich'
+ 'John M. Watson Sr.' 'Peggy Roeder']"
+32,33.0,Narvik,https://www.imdb.com/title/tt9737876/,2022,Drama,Erik Skjoldbjærg,6.6,"['Kristine Hartgen' 'Billy Campbell' 'Henrik Mestad' 'Stig Henrik Hoff'
+ 'Carl Martin Eggesbo' 'Christoph Bach' 'Magnus Dugdale'
+ 'Mathilde Holtedahl Cuhra' 'Holger Handtke' 'Isak Bakli Aglen'
+ 'Emil Johnsen' 'Kari Bremnes' 'Benjamin Noble'
+ 'Christoph Gelfert Mathiesen' 'Oyvind Troite' 'Ole Christopher Holth'
+ 'Edvard Lie Aalstad' 'Torfinn Nag']"
+33,34.0,Ant-Man and the Wasp: Quantumania,https://www.imdb.com/title/tt10954600/,2023,Action,Peyton Reed,6.6,"['Kristine Hartgen' 'Billy Campbell' 'Henrik Mestad' 'Stig Henrik Hoff'
+ 'Carl Martin Eggesbo' 'Christoph Bach' 'Magnus Dugdale'
+ 'Mathilde Holtedahl Cuhra' 'Holger Handtke' 'Isak Bakli Aglen'
+ 'Emil Johnsen' 'Kari Bremnes' 'Benjamin Noble'
+ 'Christoph Gelfert Mathiesen' 'Oyvind Troite' 'Ole Christopher Holth'
+ 'Edvard Lie Aalstad' 'Torfinn Nag']"
+34,35.0,The Wandering Earth II,https://www.imdb.com/title/tt13539646/,2023,Action,Frant Gwo,8.0,"['Andy Lau' 'Zina Blahusova' 'Jing Wu' 'Clara Lee' 'Zhi Wang' 'Liya Tong'
+ 'Yanmanzi Zhu' 'Matias Lorieri' 'Jeremiah Blakely' 'Xuejian Li' 'Li Ning'
+ 'Temur Mamisashvili' 'Mahnaz Damania' 'Alysa Finnegan' 'Yi Sha'
+ 'Anil Joseph' 'Mitall Modi' 'Khalid Ghanem']"
+35,36.0,To Leslie,https://www.imdb.com/title/tt8129806/,2022,Drama,Michael Morris,7.1,"['Andrea Riseborough' 'Allison Janney' 'Stephen Root'
+ 'James Landry Hebert' 'Owen Teague' 'Matt Lauria' 'Marc Maron'
+ 'Andre Royo' 'Mac Brandt' 'Tom Virtue' 'Juan Carlos Cantu'
+ 'Lauren Letherer' 'Alan Wells' 'Scott Peat' 'Stephanie Wong'
+ 'Paula Rhodes' 'Arabella Grant' 'Alessandra Perez']"
+36,37.0,Women Talking,https://www.imdb.com/title/tt13669038/,2022,Drama,Sarah Polley,7.5,"['Rooney Mara' 'Claire Foy' 'Jessie Buckley' 'Frances McDormand'
+ 'Judith Ivey' 'Emily Mitchell' 'Kate Hallett' 'Liv McNeil'
+ 'Sheila McCarthy' 'Michelle McLeod' 'Kira Guloien' 'Shayla Brown'
+ 'Vivien Endicott Douglas' 'Ben Whishaw' 'August Winter'
+ 'Lochlan Ray Miller' 'Nathaniel McParland' 'Will Bowes']"
+37,38.0,Shazam! Fury of the Gods,https://www.imdb.com/title/tt10151854/,2023,Action,David F. Sandberg,7.5,"['Rooney Mara' 'Claire Foy' 'Jessie Buckley' 'Frances McDormand'
+ 'Judith Ivey' 'Emily Mitchell' 'Kate Hallett' 'Liv McNeil'
+ 'Sheila McCarthy' 'Michelle McLeod' 'Kira Guloien' 'Shayla Brown'
+ 'Vivien Endicott Douglas' 'Ben Whishaw' 'August Winter'
+ 'Lochlan Ray Miller' 'Nathaniel McParland' 'Will Bowes']"
+38,39.0,Knives Out,https://www.imdb.com/title/tt8946378/,2019,Comedy,Rian Johnson,7.9,"['Daniel Craig' 'Chris Evans' 'Ana de Armas' 'Jamie Lee Curtis'
+ 'Michael Shannon' 'Don Johnson' 'Toni Collette' 'LaKeith Stanfield'
+ 'Christopher Plummer' 'Katherine Langford' 'Jaeden Martell'
+ 'Riki Lindhome' 'Edi Patterson' 'Frank Oz' 'K Callan' 'Noah Segan'
+ 'M. Emmet Walsh' 'Marlene Forte']"
+39,40.0,The Super Mario Bros. Movie,https://www.imdb.com/title/tt6718170/,2023,Animation,Aaron Horvath,7.9,"['Daniel Craig' 'Chris Evans' 'Ana de Armas' 'Jamie Lee Curtis'
+ 'Michael Shannon' 'Don Johnson' 'Toni Collette' 'LaKeith Stanfield'
+ 'Christopher Plummer' 'Katherine Langford' 'Jaeden Martell'
+ 'Riki Lindhome' 'Edi Patterson' 'Frank Oz' 'K Callan' 'Noah Segan'
+ 'M. Emmet Walsh' 'Marlene Forte']"
+40,41.0,Avatar,https://www.imdb.com/title/tt0499549/,2009,Action,James Cameron,7.9,"['Sam Worthington' 'Zoe Saldana' 'Sigourney Weaver' 'Michelle Rodriguez'
+ 'Stephen Lang' 'Giovanni Ribisi' 'Joel David Moore' 'CCH Pounder'
+ 'Wes Studi' 'Laz Alonso' 'Dileep Rao' 'Matt Gerald' 'Sean Anthony Moran'
+ 'Jason Whyte' 'Scott Lawrence' 'Kelly Kilgour' 'James Patrick Pitt'
+ 'Sean Patrick Murphy']"
+41,42.0,Jurassic World Dominion,https://www.imdb.com/title/tt8041270/,2022,Action,Colin Trevorrow,5.6,"['Chris Pratt' 'Bryce Dallas Howard' 'Laura Dern' 'Sam Neill'
+ 'Jeff Goldblum' 'DeWanda Wise' 'Mamoudou Athie' 'Isabella Sermon'
+ 'Campbell Scott' 'BD Wong' 'Omar Sy' 'Justice Smith' 'Daniella Pineda'
+ 'Scott Haze' 'Dichen Lachman' 'Kristoffer Polaha' 'Caleb Hearon'
+ 'Freya Parker']"
+42,43.0,The Batman,https://www.imdb.com/title/tt1877830/,2022,Action,Matt Reeves,7.8,"['Robert Pattinson' 'Zoe Kravitz' 'Jeffrey Wright' 'Colin Farrell'
+ 'Paul Dano' 'John Turturro' 'Andy Serkis' 'Peter Sarsgaard'
+ 'Barry Keoghan' 'Jayme Lawson' 'Gil Perez-Abraham' 'Peter McDonald'
+ ""Con O'Neill"" 'Alex Ferns' 'Rupert Penry-Jones' 'Kosha Engler'
+ 'Archie Barnes' 'Janine Harouni']"
+43,44.0,The Boogeyman,https://www.imdb.com/title/tt3427252/,2023,Horror,Rob Savage,7.8,"['Robert Pattinson' 'Zoe Kravitz' 'Jeffrey Wright' 'Colin Farrell'
+ 'Paul Dano' 'John Turturro' 'Andy Serkis' 'Peter Sarsgaard'
+ 'Barry Keoghan' 'Jayme Lawson' 'Gil Perez-Abraham' 'Peter McDonald'
+ ""Con O'Neill"" 'Alex Ferns' 'Rupert Penry-Jones' 'Kosha Engler'
+ 'Archie Barnes' 'Janine Harouni']"
+44,45.0,Amsterdam,https://www.imdb.com/title/tt10304142/,2022,Comedy,David O. Russell,6.1,"['Christian Bale' 'Margot Robbie' 'John David Washington'
+ 'Alessandro Nivola' 'Andrea Riseborough' 'Anya Taylor-Joy' 'Chris Rock'
+ 'Matthias Schoenaerts' 'Michael Shannon' 'Mike Myers' 'Taylor Swift'
+ 'Timothy Olyphant' 'Zoe Saldana' 'Rami Malek' 'Robert De Niro' 'Mel Fair'
+ 'Vaughn Page' 'Bonnie Hellman']"
+45,46.0,An Action Hero,https://www.imdb.com/title/tt15600222/,2022,Action,Anirudh Iyer,7.3,"['Ayushmann Khurrana' 'Jaideep Ahlawat' 'Neeraj Madhav' 'Gautam Joglekar'
+ 'Akshay Kumar' 'Harsh Chhaya' 'Vaquar Shaikh' 'Malaika Arora'
+ 'Nora Fatehi' 'Jitender Hooda' 'Sumit Singh' 'Balakrishnan Natarajan'
+ 'Sagar Arya' 'Jitendra Rai' 'Siddharth Amar' 'Badrul Islam' 'Garima Jha'
+ 'Girish Sharma']"
+46,47.0,Where the Crawdads Sing,https://www.imdb.com/title/tt9411972/,2022,Drama,Olivia Newman,7.2,"['Daisy Edgar-Jones' 'Taylor John Smith' 'Harris Dickinson'
+ 'David Strathairn' 'Michael Hyatt' 'Sterling Macer Jr.' 'Logan Macrae'
+ 'Bill Kelly' ""Ahna O'Reilly"" 'Garret Dillahunt' 'Jojo Regina'
+ 'Luke David Blumm' 'Blue Clarke' 'Will Bundon' 'Jayson Warner Smith'
+ 'Dane Rhodes' 'Eric Ladin' 'Robert Larriviere']"
+47,48.0,Missing,https://www.imdb.com/title/tt10855768/,2023,Drama,Nicholas D. Johnson,7.4,"['Tim Griffin' 'Ava Zaria Lee' 'Nia Long' 'Kimberly Cheng' 'Storm Reid'
+ 'Ken Leung' 'Amy Landecker' 'Megan Suri' 'Lisa Yamada'
+ 'Sharar Ali-Speakes' 'Jameel Shivji' 'Michael Segovia' 'Daniel Henney'
+ 'Joaquim de Almeida' 'Lauren B. Mosley' 'Rick Chambers' 'Tracy Vilar'
+ 'Viviana Salinas']"
+48,49.0,Winnie the Pooh: Blood and Honey,https://www.imdb.com/title/tt19623240/,2023,Horror,Rhys Frake-Waterfield,4.7,"['Gillian Broderick' 'Paula Coiz' 'Chris Cordell' 'Frederick Dallaway'
+ 'Amber Doig-Thorne' 'Craig David Dowsett' 'Simon Ellis' 'Mark Haldor'
+ 'Richard Harfst' 'May Kelly' 'Nikolai Leon' 'Marcus Massey'
+ 'Natasha Rose Mills' 'Richard D. Myers' 'Jase Rivers' 'Danielle Ronald'
+ 'Danielle Scott' 'Maria Taylor']"
+49,50.0,Vengeance,https://www.imdb.com/title/tt11976532/,2022,Comedy,B.J. Novak,6.8,"['B.J. Novak' 'Boyd Holbrook' 'Lio Tipton' 'Ashton Kutcher'
+ 'Isabella Amara' 'Dove Cameron' 'J. Smith-Cameron' 'Eli Bickel'
+ 'Issa Rae' 'Louanne Stephens' 'John Mayer' 'Clint Obenchain' 'Zach Villa'
+ 'Tony Sedillo' 'Rio Alexander' 'Sarah Minnich' 'Ben Whitehair'
+ 'Grayson Berry']"
+50,51.0,Blonde,https://www.imdb.com/title/tt1655389/,2022,Biography,Andrew Dominik,5.5,"['Ana de Armas' 'Lily Fisher' 'Julianne Nicholson' 'Tygh Runyan'
+ 'Michael Drayer' 'Sara Paxton' 'Ryan Vincent' 'Vanessa Lemonides'
+ 'Patrick Brennan' 'Rob Brownstein' 'Evan Williams' 'Xavier Samuel'
+ 'Dan Butler' 'David Warshofsky' 'Rebecca Wisocky' 'Sonny Valicenti'
+ 'George Sanders' 'Ethan Cohn']"
+51,52.0,Operation Fortune,https://www.imdb.com/title/tt7985704/,2023,Action,Guy Ritchie,6.7,"['Jason Statham' 'Aubrey Plaza' 'Cary Elwes' 'Hugh Grant' 'Josh Hartnett'
+ 'Bugzy Malone' 'Eddie Marsan' 'Tim Seyfi' 'Peter Ferdinando'
+ 'Nicholas Facey' 'Lourdes Faberes' 'Sam Douglas' 'Ergun Kuyucu'
+ 'Oliver Maltman' 'Matthew Hawksley' 'Max Beesley' 'Aksel Ustun'
+ 'Md Numan Ahmed']"
+52,53.0,Oppenheimer,https://www.imdb.com/title/tt15398776/,2023,Biography,Christopher Nolan,6.7,"['Jason Statham' 'Aubrey Plaza' 'Cary Elwes' 'Hugh Grant' 'Josh Hartnett'
+ 'Bugzy Malone' 'Eddie Marsan' 'Tim Seyfi' 'Peter Ferdinando'
+ 'Nicholas Facey' 'Lourdes Faberes' 'Sam Douglas' 'Ergun Kuyucu'
+ 'Oliver Maltman' 'Matthew Hawksley' 'Max Beesley' 'Aksel Ustun'
+ 'Md Numan Ahmed']"
+53,54.0,Guillermo del Toro's Pinocchio,https://www.imdb.com/title/tt1488589/,2022,Animation,Guillermo del Toro,7.6,"['Ewan McGregor' 'David Bradley' 'Gregory Mann' 'Burn Gorman'
+ 'Ron Perlman' 'John Turturro' 'Finn Wolfhard' 'Cate Blanchett'
+ 'Tim Blake Nelson' 'Christoph Waltz' 'Tilda Swinton' 'Tom Kenny'
+ 'Alfie Tempest' 'Anthea Greco' 'Francesca Fanti' 'Sandro Carotti'
+ 'Rio Mangini' 'Benjamin Valic']"
+54,55.0,"Alice, Darling",https://www.imdb.com/title/tt11687104/,2022,Drama,Mary Nighy,5.5,"['Anna Kendrick' 'Kaniehtiio Horn' 'Charlie Carrick' 'Wunmi Mosaku'
+ 'Mark Winnick' 'Daniel Stolfi' 'Carolyn Fe' 'Gordon Harper'
+ 'Viviana Zarrillo' 'Mairi Babb' 'Susan Applewhaite' 'Ethan Mitchell'
+ 'James M Jenkinson' 'Lindsay Leese' 'Toni Ellwand' 'Deborah Grover'
+ 'Sara Bradeen' 'Farah Merani']"
+55,56.0,Skinamarink,https://www.imdb.com/title/tt21307994/,2022,Horror,Kyle Edward Ball,5.1,['Lucas Paul' 'Dali Rose Tetreault' 'Ross Paul' 'Jaime Hill']
+56,57.0,The Godfather,https://www.imdb.com/title/tt0068646/,1972,Crime,Francis Ford Coppola,9.2,"['Marlon Brando' 'Al Pacino' 'James Caan' 'Diane Keaton'
+ 'Richard S. Castellano' 'Robert Duvall' 'Sterling Hayden' 'John Marley'
+ 'Richard Conte' 'Al Lettieri' 'Abe Vigoda' 'Talia Shire' 'Gianni Russo'
+ 'John Cazale' 'Rudy Bond' 'Al Martino' 'Morgana King' 'Lenny Montana']"
+57,58.0,Top Gun,https://www.imdb.com/title/tt0092099/,1986,Action,Tony Scott,6.9,"['Tom Cruise' 'Tim Robbins' 'Kelly McGillis' 'Val Kilmer'
+ 'Anthony Edwards' 'Tom Skerritt' 'Michael Ironside' 'John Stockwell'
+ 'Barry Tubb' 'Rick Rossovich' 'Clarence Gilyard Jr.' 'Whip Hubley'
+ 'James Tolkan' 'Meg Ryan' 'Adrian Pasdar' 'Randall Brady' 'Duke Stroud'
+ 'Brian Sheehan']"
+58,59.0,Don't Worry Darling,https://www.imdb.com/title/tt10731256/,2022,Drama,Olivia Wilde,6.2,"['Florence Pugh' 'Harry Styles' 'Chris Pine' 'Olivia Wilde' 'KiKi Layne'
+ 'Gemma Chan' 'Nick Kroll' 'Sydney Chandler' 'Kate Berlant' 'Asif Ali'
+ 'Douglas Smith' 'Timothy Simons' ""Ari'el Stachel"" 'Steve Berg'
+ 'Daisy Sudeikis' 'Marcello Reyes' 'Monroe Cline' 'Angel Mammoliti']"
+59,60.0,Devotion,https://www.imdb.com/title/tt7693316/,2022,Action,J.D. Dillard,6.6,"['Jonathan Majors' 'Glen Powell' 'Christina Jackson' 'Thomas Sadoski'
+ 'Daren Kagasoff' 'Joe Jonas' 'Spencer Neville' 'Nick Hargrove'
+ 'Boone Platt' 'Dean Denton' 'Thad Luckinbill' 'Joseph Cross'
+ 'Serinda Swan' 'Matt Riedy' 'Arianna Rosario' 'Gigi Paris' 'Erik Bello'
+ 'Michael David Anderson']"
+60,61.0,Magic Mike's Last Dance,https://www.imdb.com/title/tt16280138/,2023,Comedy,Steven Soderbergh,5.8,"['Salma Hayek' 'Channing Tatum' 'Caitlin Gerard' 'Alan Cox'
+ 'Nancy Carroll' 'Christopher Villiers' 'Vicki Pepperdine'
+ 'Christie-Leigh Emby' 'Kasey Iliana Sfetsios' 'Suzanne Bertish'
+ 'Christopher Bencomo' 'Gavin Spokes' 'Ethan Lawrence' 'Kylie Shea'
+ 'Nikkita Chadha' 'Juliette Motamed' 'Erin Cline' 'Nas Ganev']"
+61,62.0,Black Adam,https://www.imdb.com/title/tt6443346/,2022,Action,Jaume Collet-Serra,6.4,"['Dwayne Johnson' 'Aldis Hodge' 'Pierce Brosnan' 'Noah Centineo'
+ 'Sarah Shahi' 'Quintessa Swindell' 'Marwan Kenzari' 'Bodhi Sabongui'
+ 'Mohammed Amer' 'James Cusati-Moyer' 'Jalon Christian'
+ 'Benjamin Patterson' 'Odelya Halevi' 'Uli Latukefu' 'Jennifer Holland'
+ 'Henry Winkler' 'Chaim Jeraffi' 'Sharon Gee']"
+62,63.0,Barbarian,https://www.imdb.com/title/tt15791034/,2022,Horror,Zach Cregger,7.0,"['Georgina Campbell' 'Bill Skarsgard' 'Justin Long'
+ 'Matthew Patrick Davis' 'Richard Brake' 'Kurt Braunohler' 'Jaymes Butler'
+ 'Sophie Sorensen' 'Rachel Fowler' 'J.R. Esposito' 'Kate Nichols'
+ 'Kate Bosworth' 'Brooke Dillman' 'Sara Paxton' 'Will Greenberg'
+ 'Derek Morse' 'Trevor Van Uden' 'Zach Cregger']"
+63,64.0,Black Panther,https://www.imdb.com/title/tt1825683/,2018,Action,Ryan Coogler,7.3,"['Chadwick Boseman' 'Michael B. Jordan' ""Lupita Nyong'o"" 'Danai Gurira'
+ 'Martin Freeman' 'Daniel Kaluuya' 'Letitia Wright' 'Winston Duke'
+ 'Sterling K. Brown' 'Angela Bassett' 'Forest Whitaker' 'Andy Serkis'
+ 'Florence Kasumba' 'John Kani' 'David S. Lee' 'Nabiyah Be'
+ 'Isaach De Bankole' 'Connie Chiume']"
+64,65.0,Bank of Dave,https://www.imdb.com/title/tt14308636/,2023,Biography,Chris Foggin,7.2,"['Phoebe Dynevor' 'Joel Fry' 'Paul Kaye' 'Rory Kinnear' 'Jo Hartley'
+ 'Hugh Bonneville' 'Naomi Battrick' 'Angus Wright' 'Florence Hall'
+ 'Cathy Tyson' 'Def Leppard' 'Michael Hawkins' 'Drew Cain' 'Grant Crookes'
+ 'Hopi Grace' 'Elizabeth Grace' 'Bobby Hirston' 'Paul Cavendish']"
+65,66.0,Interstellar,https://www.imdb.com/title/tt0816692/,2014,Adventure,Christopher Nolan,8.6,"['Matthew McConaughey' 'Anne Hathaway' 'Jessica Chastain' 'Mackenzie Foy'
+ 'Ellen Burstyn' 'John Lithgow' 'Timothee Chalamet' 'David Oyelowo'
+ 'Collette Wolfe' 'Francis X. McCarthy' 'Bill Irwin' 'Andrew Borba'
+ 'Wes Bentley' 'William Devane' 'Michael Caine' 'David Gyasi'
+ 'Josh Stewart' 'Casey Affleck']"
+66,67.0,Fast X,https://www.imdb.com/title/tt5433140/,2023,Action,Louis Leterrier,8.6,"['Matthew McConaughey' 'Anne Hathaway' 'Jessica Chastain' 'Mackenzie Foy'
+ 'Ellen Burstyn' 'John Lithgow' 'Timothee Chalamet' 'David Oyelowo'
+ 'Collette Wolfe' 'Francis X. McCarthy' 'Bill Irwin' 'Andrew Borba'
+ 'Wes Bentley' 'William Devane' 'Michael Caine' 'David Gyasi'
+ 'Josh Stewart' 'Casey Affleck']"
+67,68.0,Pearl,https://www.imdb.com/title/tt18925334/,2022,Horror,Ti West,7.0,"['Mia Goth' 'David Corenswet' 'Tandi Wright' 'Matthew Sunderland'
+ 'Emma Jenkins-Purro' 'Alistair Sewell' 'Amelia Reid' 'Gabe McDonnell'
+ 'Lauren Stewart' 'Todd Rippon' 'Grace Acheson']"
+68,69.0,The Shawshank Redemption,https://www.imdb.com/title/tt0111161/,1994,Drama,Frank Darabont,9.3,"['Tim Robbins' 'Morgan Freeman' 'Bob Gunton' 'William Sadler'
+ 'Clancy Brown' 'Gil Bellows' 'Mark Rolston' 'James Whitmore'
+ 'Jeffrey DeMunn' 'Larry Brandenburg' 'Neil Giuntoli' 'Brian Libby'
+ 'David Proval' 'Joseph Ragno' 'Jude Ciccolella' 'Paul McCrane'
+ 'Renee Blaine' 'Scott Mann']"
+69,70.0,Scream!!,https://www.imdb.com/title/tt17663992/,2023,Horror,Matt Bettinelli-Olpin,9.3,"['Tim Robbins' 'Morgan Freeman' 'Bob Gunton' 'William Sadler'
+ 'Clancy Brown' 'Gil Bellows' 'Mark Rolston' 'James Whitmore'
+ 'Jeffrey DeMunn' 'Larry Brandenburg' 'Neil Giuntoli' 'Brian Libby'
+ 'David Proval' 'Joseph Ragno' 'Jude Ciccolella' 'Paul McCrane'
+ 'Renee Blaine' 'Scott Mann']"
+70,71.0,Smile,https://www.imdb.com/title/tt15474916/,2022,Horror,Parker Finn,6.6,"['Sosie Bacon' 'Jessie T. Usher' 'Kyle Gallner' 'Robin Weigert'
+ 'Caitlin Stasey' 'Kal Penn' 'Rob Morgan' 'Gillian Zinser' 'Judy Reyes'
+ 'Jack Sochet' 'Nick Arapoglou' 'Perry Strong' 'Matthew Lamb' 'Dora Kiss'
+ 'Meghan Brown Pratt' 'Jared Johnston' 'Ura Yoana Sanchez'
+ 'Vanessa Cozart']"
+71,72.0,Rise Roar Revolt,https://www.imdb.com/title/tt8178634/,2022,Action,S.S. Rajamouli,7.9,"['N.T. Rama Rao Jr.' 'Ram Charan Teja' 'Ajay Devgn' 'Alia Bhatt'
+ 'Olivia Morris' 'Shriya Saran' 'Ray Stevenson' 'Alison Doody'
+ 'Samuthirakani' 'Chandra Sekhar' 'Makrand Deshpande' 'Rajeev Kanakala'
+ 'Rahul Ramakrishna' 'Edward Sonnenblick' 'Varun Buddhadev'
+ 'Spandan Chaturvedi' 'Mark Bennington' 'Ahmareen Anjum']"
+72,73.0,Murder Mystery,https://www.imdb.com/title/tt1618434/,2019,Action,Kyle Newacheck,6.0,"['Adam Sandler' 'Jennifer Aniston' 'Luke Evans' 'Terence Stamp'
+ 'Gemma Arterton' 'David Walliams' 'Dany Boon' 'John Kani' 'Adeel Akhtar'
+ 'Olafur Darri Olafsson' 'Luis Gerardo Mendez' 'Shioli Kutsuna'
+ 'Erik Griffin' 'Sufe Bradshaw' 'Jackie Sandler' 'Allen Covert'
+ 'Leigh Kilton-Smith' 'Sadie Sandler']"
+73,74.0,Once Upon a Time... In Hollywood,https://www.imdb.com/title/tt7131622/,2019,Comedy,Quentin Tarantino,7.6,"['Leonardo DiCaprio' 'Brad Pitt' 'Margot Robbie' 'Emile Hirsch'
+ 'Margaret Qualley' 'Timothy Olyphant' 'Julia Butters' 'Austin Butler'
+ 'Dakota Fanning' 'Bruce Dern' 'Mike Moh' 'Luke Perry' 'Damian Lewis'
+ 'Al Pacino' 'Nicholas Hammond' 'Samantha Robinson' 'Rafal Zawierucha'
+ 'Lorenza Izzo']"
+74,75.0,Pamela: A Love Story,https://www.imdb.com/title/tt18376122/,2023,Documentary,Ryan White,7.3,['Pamela Anderson' 'Gregory Butler' 'Rob Bowman']
+75,76.0,The Northman,https://www.imdb.com/title/tt11138512/,2022,Action,Robert Eggers,7.1,"['Alexander Skarsgard' 'Nicole Kidman' 'Claes Bang' 'Ethan Hawke'
+ 'Anya Taylor-Joy' 'Gustav Lindh' 'Elliott Rose' 'Willem Dafoe'
+ 'Phill Martin' 'Eldar Skar' 'Olwen Fouere' 'Edgar Abram' 'Jack Gassmann'
+ 'Ingvar Sigurdsson' 'Oscar Novak' 'Jack Walsh' 'Bjork' 'Ian Whyte']"
+76,77.0,Left Behind: Rise of the Antichrist,https://www.imdb.com/title/tt16174868/,2023,Mystery,Kevin Sorbo,4.2,"['Kevin Sorbo' 'Mary Armstrong' 'Mark Bellamy' 'Stuart Bentley'
+ 'Corbin Bernsen' 'Larry Bullied' 'Bailey Chase' 'Paul Cowling'
+ 'Sarah Fisher' 'Angela Hinton' 'Linda Kee' 'Kathryn Kohut' 'Richard Koy'
+ 'Stephane Legault' 'David LeReaney' 'Jesse Lipscombe' 'Deanna Mae Lloyd'
+ 'Neal McDonough']"
+77,78.0,Nope,https://www.imdb.com/title/tt10954984/,2022,Horror,Jordan Peele,6.9,"['Daniel Kaluuya' 'Keke Palmer' 'Brandon Perea' 'Michael Wincott'
+ 'Steven Yeun' 'Wrenn Schmidt' 'Keith David' 'Devon Graye' 'Terry Notary'
+ 'Barbie Ferreira' 'Donna Mills' 'Oz Perkins' 'Eddie Jemison' 'Jacob Kim'
+ 'Sophia Coto' 'Jennifer Lafleur' 'Andrew Patrick Ralston'
+ 'Lincoln Lambert']"
+78,79.0,Harry Potter and the Philosopher's Stone,https://www.imdb.com/title/tt0241527/,2001,Adventure,Chris Columbus,7.6,"['Daniel Radcliffe' 'Rupert Grint' 'Richard Harris' 'Maggie Smith'
+ 'Robbie Coltrane' 'Saunders Triplets' 'Fiona Shaw' 'Harry Melling'
+ 'Richard Griffiths' 'Derek Deadman' 'Ian Hart' 'Ben Borowiecki'
+ 'Warwick Davis' 'Verne Troyer' 'John Hurt' 'Richard Bremmer'
+ 'Geraldine Somerville' 'Harry Taylor']"
+79,80.0,Titanic,https://www.imdb.com/title/tt0120338/,1997,Drama,James Cameron,7.9,"['Leonardo DiCaprio' 'Kate Winslet' 'Billy Zane' 'Kathy Bates'
+ 'Frances Fisher' 'Gloria Stuart' 'Bill Paxton' 'Bernard Hill'
+ 'David Warner' 'Victor Garber' 'Jonathan Hyde' 'Suzy Amis'
+ 'Lewis Abernathy' 'Nicholas Cascone' 'Anatoly M. Sagalevitch'
+ 'Danny Nucci' 'Jason Barry' 'Ewan Stewart']"
+80,81.0,Sound of Silence,https://www.imdb.com/title/tt19363554/,2023,Horror,Alessandro Antonaci,7.9,"['Leonardo DiCaprio' 'Kate Winslet' 'Billy Zane' 'Kathy Bates'
+ 'Frances Fisher' 'Gloria Stuart' 'Bill Paxton' 'Bernard Hill'
+ 'David Warner' 'Victor Garber' 'Jonathan Hyde' 'Suzy Amis'
+ 'Lewis Abernathy' 'Nicholas Cascone' 'Anatoly M. Sagalevitch'
+ 'Danny Nucci' 'Jason Barry' 'Ewan Stewart']"
+81,82.0,Close,https://www.imdb.com/title/tt9660502/,2022,Drama,Lukas Dhont,7.9,"['Eden Dambrine' 'Gustav De Waele' 'Emilie Dequenne' 'Lea Drucker'
+ 'Igor van Dessel' 'Kevin Janssens' 'Marc Weiss' 'Leon Bataille'
+ 'Serine Ayari' 'Robin Keyaert' 'Herman van Slambrouck'
+ 'Iven Deduytschaver' 'Jeffrey Vanhaeren' 'Helene Theunissen'
+ 'Baptiste Bataille' 'Pieter Piron' 'Freya De Corte' 'Ahlaam Teghadouini']"
+82,83.0,Love,https://www.imdb.com/title/tt3774694/,2015,Drama,Gaspar Noé,6.1,"['Aomi Muyock' 'Karl Glusman' 'Klara Kristin' 'Juan Saavedra' 'Ugo Fox'
+ 'Gaspar Noe' 'Isabelle Nicou' 'Benoit Debie' 'Vincent Maraval'
+ 'Deborah Revy' 'Xamira Zuloaga' 'Stella Rocha' 'Omaima S.' 'David Bohm'
+ 'Richard Blondel' 'Nikita Bellucci' 'Kelly Pix' 'Tony Caliano']"
+83,84.0,Living,https://www.imdb.com/title/tt9051908/,2022,Drama,Oliver Hermanus,7.5,"['Bill Nighy' 'Aimee Lou Wood' 'Alex Sharp' 'Adrian Rawlins'
+ 'Hubert Burton' 'Oliver Chris' 'Michael Cochrane' 'Anant Varman'
+ 'Zoe Boyle' 'Lia Williams' 'Jessica Flood' 'Jamie Wilkes'
+ 'Richard Cunningham' 'John Mackay' 'Ffion Jolly' 'Celeste Dodwell'
+ 'Jonathan Keeble' 'Patsy Ferran']"
+84,85.0,Fall,https://www.imdb.com/title/tt15325794/,2022,Thriller,Scott Mann,6.4,"['Grace Caroline Currey' 'Virginia Gardner' 'Mason Gooding'
+ 'Jeffrey Dean Morgan' 'Jasper Cole' 'Darrell Dennis' 'Bamm Ericsen'
+ 'Julia Pace Mitchell' 'Evie Mann' 'Joseph Mann' 'Nick Lynes'
+ 'Branden Currey']"
+85,86.0,We Have a Ghost,https://www.imdb.com/title/tt7798604/,2023,Adventure,Christopher Landon,6.4,"['Grace Caroline Currey' 'Virginia Gardner' 'Mason Gooding'
+ 'Jeffrey Dean Morgan' 'Jasper Cole' 'Darrell Dennis' 'Bamm Ericsen'
+ 'Julia Pace Mitchell' 'Evie Mann' 'Joseph Mann' 'Nick Lynes'
+ 'Branden Currey']"
+86,87.0,When You Finish Saving the World,https://www.imdb.com/title/tt12121582/,2022,Comedy,Jesse Eisenberg,5.7,"['Julianne Moore' 'Finn Wolfhard' 'Billy Bryk' 'Alisha Boe' 'Jack Justice'
+ 'Jay O. Sanders' 'Eleonore Hendricks' 'Catherine Haun' 'Annacheska Brown'
+ 'Sara Anne' 'Marika Rose Sayers' 'Felipe Jeantete' 'Calhoun Koenig'
+ 'Colin Miller' 'Adrian Mackenzie' 'Laura-Love Tode' 'Mimi Fletcher'
+ 'Jordyn Aurora Aquino']"
+87,88.0,The Wolf of Wall Street,https://www.imdb.com/title/tt0993846/,2013,Biography,Martin Scorsese,8.2,"['Leonardo DiCaprio' 'Jonah Hill' 'Margot Robbie' 'Matthew McConaughey'
+ 'Kyle Chandler' 'Rob Reiner' 'Jon Bernthal' 'Jon Favreau' 'Jean Dujardin'
+ 'Joanna Lumley' 'Cristin Milioti' 'Christine Ebersole' 'Shea Whigham'
+ 'Katarina Cas' 'P.J. Byrne' 'Kenneth Choi' 'Brian Sacca'
+ 'Henry Zebrowski']"
+88,89.0,Dances with Wolves,https://www.imdb.com/title/tt0099348/,1990,Adventure,Kevin Costner,8.0,"['Kevin Costner' 'Mary McDonnell' 'Graham Greene' 'Rodney A. Grant'
+ ""Floyd 'Red Crow' Westerman"" 'Tantoo Cardinal' 'Robert Pastorelli'
+ 'Charles Rocket' 'Maury Chaykin' 'Jimmy Herman'
+ 'Nathan Lee Chasing His Horse' 'Michael Spears' 'Jason R. Lone Hill'
+ 'Tony Pierce' 'Doris Leader Charge' 'Tom Everett' 'Larry Joshua'
+ 'Kirk Baltz']"
+89,90.0,Violent Night,https://www.imdb.com/title/tt12003946/,2022,Action,Tommy Wirkola,6.7,"['David Harbour' 'John Leguizamo' ""Beverly D'Angelo"" 'Alex Hassell'
+ 'Alexis Louder' 'Edi Patterson' 'Cam Gigandet' 'Leah Brady'
+ 'Andre Eriksen' 'Brendan Fletcher' 'Mike Dopud' 'Alexander Elliot'
+ 'Mitra Suri' 'Can Aydin' 'Phong Giang' 'Finn McCager Higgins'
+ 'Rawleigh Clements-Willis' 'Stephanie Sy']"
+90,91.0,Dune,https://www.imdb.com/title/tt1160419/,2021,Action,Denis Villeneuve,8.0,"['Timothee Chalamet' 'Rebecca Ferguson' 'Zendaya' 'Oscar Isaac'
+ 'Jason Momoa' 'Stellan Skarsgard' 'Stephen McKinley Henderson'
+ 'Josh Brolin' 'Javier Bardem' 'Sharon Duncan-Brewster' 'Chang Chen'
+ 'Dave Bautista' 'David Dastmalchian' 'Charlotte Rampling'
+ 'Babs Olusanmokun' 'Benjamin Clementine' 'Souad Faress' 'Golda Rosheuvel']"
+91,92.0,Pulp Fiction,https://www.imdb.com/title/tt0110912/,1994,Crime,Quentin Tarantino,8.9,"['John Travolta' 'Uma Thurman' 'Samuel L. Jackson' 'Bruce Willis'
+ 'Tim Roth' 'Amanda Plummer' 'Laura Lovelace' 'Phil LaMarr' 'Frank Whaley'
+ 'Burr Steers' 'Ving Rhames' 'Paul Calderon' 'Bronagh Gallagher'
+ 'Rosanna Arquette' 'Eric Stoltz' 'Jerome Patrick Hoban' 'Michael Gilden'
+ 'Gary Shorelle']"
+92,93.0,American Psycho,https://www.imdb.com/title/tt0144084/,2000,Crime,Mary Harron,7.6,"['Christian Bale' 'Justin Theroux' 'Josh Lucas' 'Bill Sage'
+ 'Chloe Sevigny' 'Reese Witherspoon' 'Samantha Mathis' 'Matt Ross'
+ 'Jared Leto' 'Willem Dafoe' 'Cara Seymour' 'Guinevere Turner'
+ 'Stephen Bogaert' 'Monika Meier' 'Reg E. Cathey' 'Blair Williams'
+ 'Marie Dame' 'Kelley Harron']"
+93,94.0,Mission Majnu,https://www.imdb.com/title/tt13131232/,2023,Action,Shantanu Bagchi,7.7,"['Sidharth Malhotra' 'Rashmika Mandanna' 'Parmeet Sethi' 'Zakir Hussain'
+ 'Kumud Mishra' 'Sharib Hashmi' 'Ashwath Bhatt' 'Avijit Dutt'
+ 'Rajit Kapoor' 'Shishir Sharma' 'Shivraj Walvekar' 'Avantika Akerkar'
+ 'Anant Mahadevan' 'Manoj Bakshi' 'Salim Fatehi' 'Mir Sarwar'
+ 'Vineet Sharma' 'Manoj Dutt']"
+94,95.0,The Woman King,https://www.imdb.com/title/tt8093700/,2022,Action,Gina Prince-Bythewood,6.7,"['Viola Davis' 'Thuso Mbedu' 'Lashana Lynch' 'Sheila Atim' 'John Boyega'
+ 'Jordan Bolger' 'Hero Fiennes Tiffin' 'Jimmy Odukoya' 'Masali Baduza'
+ 'Jayme Lawson' 'Adrienne Warren' 'Chioma Antoinette Umeala'
+ 'Siyamthanda Makakane' 'Shaina West' 'Sivuyile Ngesi' 'Riaan Visman'
+ 'Seputla Sebogodi' 'Angelique Kidjo']"
+95,96.0,Spider-Man: No Way Home,https://www.imdb.com/title/tt10872600/,2021,Action,Jon Watts,8.2,"['Tom Holland' 'Zendaya' 'Benedict Cumberbatch' 'Jacob Batalon'
+ 'Jon Favreau' 'Jamie Foxx' 'Willem Dafoe' 'Alfred Molina' 'Benedict Wong'
+ 'Tony Revolori' 'Marisa Tomei' 'Andrew Garfield' 'Tobey Maguire'
+ 'Angourie Rice' 'Arian Moayed' 'Paula Newsome' 'Hannibal Buress'
+ 'Martin Starr']"
+96,97.0,Sick,https://www.imdb.com/title/tt14642626/,2022,Horror,John Hyams,6.1,"['Gideon Adlon' 'Bethlehem Million' 'Dylan Sprayberry' 'Marc Menchaca'
+ 'Jane Adams' 'Joel Courtney' 'Chris Reid' 'Duane Stephens' 'Logan Murphy'
+ 'Terry D. Gibson' 'Andrew Sikking' 'Kimberlee Kraczek'
+ 'Charla Bocchicchio' 'Jihae Song' 'Alireza Mirmontazeri' 'Aarman Toure']"
+97,98.0,Killers of the Flower Moon,https://www.imdb.com/title/tt5537002/,2022,Horror,John Hyams,6.1,"['Gideon Adlon' 'Bethlehem Million' 'Dylan Sprayberry' 'Marc Menchaca'
+ 'Jane Adams' 'Joel Courtney' 'Chris Reid' 'Duane Stephens' 'Logan Murphy'
+ 'Terry D. Gibson' 'Andrew Sikking' 'Kimberlee Kraczek'
+ 'Charla Bocchicchio' 'Jihae Song' 'Alireza Mirmontazeri' 'Aarman Toure']"
+98,99.0,The Dark Knight,https://www.imdb.com/title/tt0468569/,2008,Action,Christopher Nolan,9.0,"['Christian Bale' 'Heath Ledger' 'Aaron Eckhart' 'Michael Caine'
+ 'Maggie Gyllenhaal' 'Gary Oldman' 'Morgan Freeman'
+ 'Monique Gabriela Curnen' 'Ron Dean' 'Cillian Murphy' 'Chin Han'
+ 'Nestor Carbonell' 'Eric Roberts' 'Ritchie Coster' 'Anthony Michael Hall'
+ 'Keith Szarabajka' 'Colin McFarlane' 'Joshua Harto']"
+99,100.0,The Fallout,https://www.imdb.com/title/tt11847410/,2021,Drama,Megan Park,7.0,"['Jenna Ortega' 'Maddie Ziegler' 'Niles Fitch' 'Will Ropp' 'Lumi Pollack'
+ 'John Ortiz' 'Julie Bowen' 'Shailene Woodley' 'Christine Horn'
+ 'Austin Zajur' 'Yindra Zayas' 'Elliott Roca' 'Malcolm Santos'
+ 'Nancy Arnstein' 'Tiffany Rae Jones' 'Eddie Seitz']"

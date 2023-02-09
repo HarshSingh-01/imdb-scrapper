@@ -1,0 +1,493 @@
+,rank,movie_name,movie_url,movie_year,genre,director_name,rating,cast_and_crew
+0,1.0,The Last of Us,https://www.imdb.com/title/tt3581920/,2023– ,Action,Neil Druckmann,9.2,"['Pedro Pascal' 'Bella Ramsey' 'Gabriel Luna' 'Anna Torv'
+ 'Merle Dandridge' 'Melanie Lynskey' 'Lamar Johnson' 'Keivonn Woodard'
+ 'Jeffrey Pierce' 'Phillip A. Kovats' 'Nico Parker' 'Nick Offerman'
+ 'John Hannah' 'Christine Hakim' 'Murray Bartlett' 'Yayu A.W. Unru'
+ 'Josh Brener' 'Kevin Sateri']"
+1,2.0,Poker Face,https://www.imdb.com/title/tt14269590/,2023– ,Crime,Rian Johnson,8.2,"['Natasha Lyonne' 'Benjamin Bratt' 'Elijah George' 'Robert Loftus'
+ 'Simon Helberg' 'Brandon Micheal Hall' 'Pedro Hollywood' 'Teren Carter'
+ 'Sprague Theobald' 'Elsa Kennedy' 'Tim Miller' 'Hong Chau'
+ 'Chloe Sevigny' 'Adrien Brody' 'Judith Light' 'Joseph Gordon-Levitt'
+ 'Ron Perlman' 'Ellen Barkin']"
+2,3.0,The White Lotus,https://www.imdb.com/title/tt13406094/,2021–2023,Comedy,Mike White,7.9,"['Jennifer Coolidge' 'Jon Gries' 'F. Murray Abraham' 'Adam DiMarco'
+ 'Meghann Fahy' 'Beatrice Granno' 'Tom Hollander' 'Sabrina Impacciatore'
+ 'Michael Imperioli' 'Theo James' 'Aubrey Plaza' 'Haley Lu Richardson'
+ 'Will Sharpe' 'Simona Tabasco' 'Leo Woodall' 'Eleonora Romandini'
+ 'Murray Bartlett' 'Connie Britton']"
+3,4.0,Lockwood & Co.,https://www.imdb.com/title/tt13802576/,2023– ,Action,Ruby Stokes,7.5,"['Ruby Stokes' 'Cameron Chapman' 'Ali Hadji-Heshmati' 'Ivanno Jeremiah'
+ 'Jack Bandeira' 'Rhianna Dorris' 'Paddy Holland' 'Bronwyn James'
+ 'Morven Christie' 'Hayley Konadu' 'Rico Vina' 'Louise Brealey'
+ 'Jemma Moore' 'Ishtar Currie-Wilson' 'Michael Clarke' 'Luke Treadaway'
+ 'Jeff Rawle' 'Ben Crompton']"
+4,5.0,Yellowstone,https://www.imdb.com/title/tt4236770/,2018–2023,Drama,John Linson,8.7,"['Kevin Costner' 'Luke Grimes' 'Kelly Reilly' 'Wes Bentley' 'Cole Hauser'
+ 'Kelsey Asbille' 'Brecken Merrill' 'Jefferson White' 'Gil Birmingham'
+ 'Forrie J. Smith' 'Denim Richards' 'Ian Bohen' 'Mo Brings Plenty'
+ 'Jake Ream' 'Ryan Bingham' 'Jen Landon' 'Wendy Moniz' 'Ethan Lee']"
+5,6.0,Shrinking,https://www.imdb.com/title/tt15677150/,2023– ,Comedy,Brett Goldstein,7.7,"['Jason Segel' 'Jessica Williams' 'Harrison Ford' 'Luke Tennie'
+ 'Michael Urie' 'Lukita Maxwell' 'Christa Miller' 'Ted McGinley'
+ 'Devin Kawaoka' 'Heidi Gardner' 'Tilky Jones' 'Lilan Bowden'
+ 'Rachel Stubington' 'Kimberly Condict' 'Matt Knudsen'
+ 'Adam Foster Ballard' 'Asif Ali' 'Mike C. Nelson']"
+6,7.0,Wednesday,https://www.imdb.com/title/tt13443470/,2022– ,Comedy,Alfred Gough,8.2,"['Jenna Ortega' 'Hunter Doohan' 'Percy Hynes White' 'Emma Myers'
+ 'Joy Sunday' 'Georgie Farmer' 'Christina Ricci' 'Victor Dorobantu'
+ 'Gwendoline Christie' 'Riki Lindhome' 'Jamie McShane' 'Naomi J. Ogawa'
+ 'Johnna Dias-Watson' 'Oliver Watson' 'Moosa Mostafa'
+ 'Luyanda Unati Lewis-Nyawo' 'Daniel Himschoot' 'Iman Marson']"
+7,8.0,That '90s Show,https://www.imdb.com/title/tt15591076/,2023– ,Comedy,Gregg Mettler,6.4,"['Kurtwood Smith' 'Debra Jo Rupp' 'Callie Haverda' 'Ashley Aufderheide'
+ 'Mace Coronel' 'Reyn Doi' 'Sam Morelos' 'Maxwell Acee Donovan'
+ 'Andrea Anders' 'Wilmer Valderrama' 'Laura Prepon' 'Tommy Chong'
+ 'Olivia Sanabia' 'Topher Grace' 'Don Stark' 'Sanford Hudson' 'Mila Kunis'
+ 'Brian Austin Green']"
+8,9.0,Velma,https://www.imdb.com/title/tt14153790/,2023– ,Animation,Charlie Grandy,1.4,"['Mindy Kaling' 'Glenn Howerton' 'Sam Richardson' 'Constance Wu'
+ 'Jane Lynch' 'Melissa Fumero' 'Russell Peters' 'Wanda Sykes'
+ 'Fortune Feimster' 'Yvonne Orji' 'Sarayu Blue' 'Nicole Byer' 'Gary Cole'
+ 'Kari Wahlgren' 'Frank Welker' 'Andrew Morgado' 'Cherry Jones'
+ 'Ken Leung']"
+9,10.0,The Walking Dead,https://www.imdb.com/title/tt1520211/,2010–2022,Drama,Frank Darabont,8.1,"['Andrew Lincoln' 'Norman Reedus' 'Melissa McBride' 'Lauren Cohan'
+ 'Christian Serratos' 'Josh McDermitt' 'Danai Gurira' 'Seth Gilliam'
+ 'Ross Marquand' 'Chandler Riggs' 'Jeffrey Dean Morgan' 'Alanna Masterson'
+ 'Khary Payton' 'Steven Yeun' 'Cooper Andrews' 'Sonequa Martin-Green'
+ 'Eleanor Matsuura' 'Nadia Hilker']"
+10,11.0,Game of Thrones,https://www.imdb.com/title/tt0944947/,2011–2019,Action,David Benioff,9.2,"['Emilia Clarke' 'Peter Dinklage' 'Kit Harington' 'Lena Headey'
+ 'Sophie Turner' 'Maisie Williams' 'Nikolaj Coster-Waldau' 'Iain Glen'
+ 'John Bradley' 'Alfie Allen' 'Conleth Hill' 'Liam Cunningham'
+ 'Gwendoline Christie' 'Aidan Gillen' 'Isaac Hempstead Wright'
+ 'Rory McCann' 'Nathalie Emmanuel' 'Jerome Flynn']"
+11,12.0,Ginny & Georgia,https://www.imdb.com/title/tt10813940/,2021– ,Comedy,Sarah Lampert,7.5,"['Brianne Howey' 'Antonia Gentry' 'Diesel La Torraca' 'Felix Mallard'
+ 'Sara Waisglass' 'Scott Porter' 'Raymond Ablack' 'Katie Douglas'
+ 'Chelsea Clark' 'Mason Temple' 'Dan Beirne' 'Nikki Roumel'
+ 'Jennifer Robertson' 'Sabrina Grdevich' 'Alex Mallari Jr.' 'Damian Romeo'
+ 'Colton Gobbo' 'Rebecca Ablack']"
+12,13.0,Happy Valley,https://www.imdb.com/title/tt3428912/,2014–2023,Crime,Sally Wainwright,8.5,"['Sarah Lancashire' 'Siobhan Finneran' 'James Norton' 'Rhys Connah'
+ 'Charlie Murphy' 'Shane Zaza' 'Ishia Bennison' 'Rick Warden'
+ 'George Costigan' 'Karl Davies' 'Derek Riddell' ""Con O'Neill""
+ 'Mete Dursun' 'Vincent Franklin' 'Chord Melodic' 'Susan Lynch'
+ 'Jill Baker' 'Mark Stanley']"
+13,14.0,1923,https://www.imdb.com/title/tt18335752/,2022–2023,Drama,Taylor Sheridan,8.6,"['Harrison Ford' 'Helen Mirren' 'Brandon Sklenar' 'Julia Schlaepfer'
+ 'Darren Mann' 'Jerome Flynn' 'Brian Geraghty' 'Michelle Randolph'
+ 'Aminah Nieves' 'Caleb Martin' 'Marley Shelton' 'Isabel May'
+ 'James Badge Dale' 'Brian Konowal' 'Jennifer Ehle' 'Leenah Robinson'
+ 'Sebastian Roche' 'Brian Brown']"
+14,15.0,Breaking Bad,https://www.imdb.com/title/tt0903747/,2008–2013,Crime,Vince Gilligan,9.5,"['Bryan Cranston' 'Aaron Paul' 'Anna Gunn' 'Betsy Brandt' 'RJ Mitte'
+ 'Dean Norris' 'Bob Odenkirk' 'Steven Michael Quezada' 'Jonathan Banks'
+ 'Giancarlo Esposito' 'Charles Baker' 'Jesse Plemons'
+ 'Christopher Cousins' 'Laura Fraser' 'Matt Jones' 'Michael Shamus Wiles'
+ 'Lavell Crawford' 'Ray Campbell']"
+15,16.0,Criminal Minds,https://www.imdb.com/title/tt0452046/,2005– ,Crime,Jeff Davis,8.1,"['Kirsten Vangsness' 'Matthew Gray Gubler' 'A.J. Cook' 'Joe Mantegna'
+ 'Thomas Gibson' 'Shemar Moore' 'Paget Brewster' 'Aisha Tyler'
+ 'Adam Rodriguez' 'Daniel Henney' 'Jeanne Tripplehorn' 'Mandy Patinkin'
+ 'Lola Glaudini' 'Josh Stewart' 'Jayne Atkinson' 'Jennifer Love Hewitt'
+ 'Cade Owens' 'Nicholas Brendon']"
+16,17.0,Hunters,https://www.imdb.com/title/tt7456722/,2020–2023,Crime,David Weil,7.2,"['Al Pacino' 'Logan Lerman' 'Lena Olin' 'Josh Radnor' 'Jerrika Hinton'
+ 'Carol Kane' 'Greg Austin' 'Tiffany Boone' 'Louis Ozawa' 'Kate Mulvany'
+ 'Dylan Baker' 'Saul Rubinek' 'Jeannie Berlin' 'Jennifer Jason Leigh'
+ 'Jonno Davies' 'Emily Rudd' 'Julissa Bermudez' 'Henry Hunter Hall']"
+17,18.0,Tulsa King,https://www.imdb.com/title/tt16358384/,2022– ,Crime,Taylor Sheridan,8.1,"['Sylvester Stallone' 'Andrea Savage' 'Martin Starr' 'Jay Will'
+ 'Max Casella' 'Domenick Lombardozzi' 'Vincent Piazza' 'A.C. Peterson'
+ 'Garrett Hedlund' 'Dana Delany' 'Chris Caldovino' 'Ritchie Coster'
+ 'Dashiell Connery' 'Emily Davis' 'Tatiana Zappardino'
+ 'McKenna Quigley Harrington' 'Justin Garcia-Pruneda' 'Barry Corbin']"
+18,19.0,Your Honor,https://www.imdb.com/title/tt7440726/,2020–2023,Crime,Peter Moffat,7.6,"['Bryan Cranston' 'Hope Davis' 'Isiah Whitlock Jr.' 'Benjamin Flores Jr.'
+ 'Keith Machekanyanga' 'Amy Landecker' 'Michael Stuhlbarg' 'Lilli Kay'
+ 'Andrene Ward-Hammond' 'Tony Curran' 'Jimi Stanton' 'Margo Martindale'
+ 'Hunter Doohan' 'Carmen Ejogo' ""Gavin 'Chief' Meredith"" 'Jock McKissic'
+ 'Kelvin Witherspoon' 'David Maldonado']"
+19,20.0,The Legend of Vox Machina,https://www.imdb.com/title/tt11247158/,2022– ,Animation,Chris Prynoski,8.4,"['Laura Bailey' 'Taliesin Jaffe' 'Ashley Johnson' 'Matthew Mercer'
+ ""Liam O'Brien"" 'Marisha Ray' 'Sam Riegel' 'Travis Willingham'
+ 'Grey Griffin' 'Esme Creed-Miles' 'Kelly Hu' 'Indira Varma'
+ 'Khary Payton' 'Gina Torres' 'Stephanie Beatriz' 'Sunil Malhotra'
+ 'Lance Reddick' 'Darin De Paul']"
+20,21.0,Mayor of Kingstown,https://www.imdb.com/title/tt11712058/,2021– ,Crime,Hugh Dillon,8.2,"['Jeremy Renner' 'Dianne Wiest' 'Hugh Dillon' 'Tobi Bamtefa'
+ 'Taylor Handley' 'Emma Laird' 'Derek Webster' 'Hamish Allan-Headley'
+ 'Aidan Gillen' 'Nichole Galicia' ""Pha'rez Lass"" 'James Jordan'
+ 'Nishi Munshi' 'Michael Beach' 'Necar Zadegan' 'Ryan Rosery'
+ 'George Tchortov' 'Jose Pablo Cantillo']"
+21,22.0,Outer Banks,https://www.imdb.com/title/tt10293938/,2020– ,Action,Shannon Burke,7.6,"['Chase Stokes' 'Madelyn Cline' 'Madison Bailey' 'J.D.' 'Rudy Pankow'
+ 'Austin North' 'Charles Esten' 'Drew Starkey' 'Caroline Arapoglou'
+ 'Julia Antonelli' 'Cullen Moss' 'Deion Smith' 'Carlacia Grant'
+ 'Charles Halford' 'Marland Burke' 'E. Roger Mitchell'
+ 'Elizabeth Mitchell' 'Samantha Soule']"
+22,23.0,Better Call Saul,https://www.imdb.com/title/tt3032476/,2015–2022,Crime,Vince Gilligan,8.9,"['Bob Odenkirk' 'Rhea Seehorn' 'Jonathan Banks' 'Patrick Fabian'
+ 'Michael Mando' 'Giancarlo Esposito' 'Michael McKean' 'Tony Dalton'
+ 'Mark Margolis' 'Kerry Condon' 'Ray Campbell' 'Jeremiah Bitsui'
+ 'Cara Pifko' 'Dennis Boutsikaris' 'Ed Begley Jr.' 'Josh Fadem'
+ 'Tina Parker' 'Julian Bonfiglio']"
+23,24.0,The Rookie,https://www.imdb.com/title/tt7587890/,2018– ,Action,Alexi Hawley,8.0,"['Nathan Fillion' 'Alyssa Diaz' 'Richard T. Jones' ""Melissa O'Neil""
+ 'Eric Winter' 'Mekia Cox' 'Shawn Ashmore' 'Titus Makin Jr.' 'Brent Huff'
+ 'Jenna Dewan' 'Tru Valentino' 'Jan M. Janssen' 'Afton Williamson'
+ 'Dylan Conrique' 'Mercedes Mason' 'Arjay Smith' 'Ali Larter'
+ 'Lisseth Chavez']"
+24,25.0,That '70s Show,https://www.imdb.com/title/tt0165598/,1998–2006,Comedy,Mark Brazill,8.1,"['Topher Grace' 'Laura Prepon' 'Mila Kunis' 'Danny Masterson'
+ 'Wilmer Valderrama' 'Debra Jo Rupp' 'Kurtwood Smith' 'Don Stark'
+ 'Ashton Kutcher' 'Tanya Roberts' 'Tommy Chong' 'Lisa Robin Kelly'
+ 'Josh Meyers' 'Mo Gaffney' 'Tim Reid' 'Shannon Elizabeth' 'Allison Munn'
+ 'Jud Tylor']"
+25,26.0,Extraordinary,https://www.imdb.com/title/tt14531842/,2023– ,Action,Emma Moran,7.9,"['Mairead Tyers' 'Sofia Oxenham' 'Bilal Hasna' 'Luke Rollason'
+ 'Shaun Mason' 'Darcey Porter-Cassidy' 'Siobhan McSweeney' 'Sam Haygarth'
+ 'Chris Lew Kum Hoi' 'Abraham Popoola' 'Ned Porteous' ""Ardal O'Hanlon""
+ 'Robbie Gee' 'Safia Oakley-Green' 'Eros Vlahos' 'Olivia Marcus'
+ 'Joshua Leese' 'Jane Shakespeare']"
+26,27.0,Wolf Pack,https://www.imdb.com/title/tt15487922/,2023– ,Drama,Sarah Michelle Gellar,6.0,"['Sarah Michelle Gellar' 'Rodrigo Santoro' 'Armani Jackson'
+ 'Bella Shepard' 'Chloe Rose Robertson' 'Tyler Lawrence Gray' 'Lanny Joon'
+ 'James Martinez' 'Amy Pietz' 'Rio Mangini' 'Sean Philip Glasgow'
+ 'Hollie Bahar' 'Bailey Stender' 'Stella Smith' 'Nevada Jose'
+ 'John L. Adams' 'Holly Firfer' 'Chase Liefeld']"
+27,28.0,The Snow Girl,https://www.imdb.com/title/tt15787870/,2023,Crime,Marco Cáceres,6.9,"['Marco Caceres' 'Milena Smit' 'Jose Coronado' 'Loreto Mauleon'
+ 'Cecilia Freire' 'Aixa Villagran' 'Julian Villagran' 'Raul Prieto'
+ 'Tristan Ulloa' 'Mario del Cubo' 'Jessica Sherman' 'Cristian Lopez'
+ 'Eva Marciel' 'Alejandro Vergara' 'Jorge Porras' 'Amada Santos'
+ 'Mia Zafra' 'Alberto de Arquer']"
+28,29.0,Accused,https://www.imdb.com/title/tt7949212/,2023– ,Crime,Howard Gordon,7.3,"['Neil Whitely' 'Stephanie Nogueras' 'Jean-Michel Le Gal' 'Beatriz Yuste'
+ 'Farrah Aviva' 'Rachel Bilson' 'Megan Boone' 'Michael Chiklis'
+ 'Reid Miller' 'Jill Hennessy' 'Shawn Doyle' 'Robert Wisdom'
+ 'August Maturo' 'Josh Castille' 'Aaron Ashmore' 'Jack Davenport'
+ 'Evan Marsh' 'Oakes Fegley']"
+29,30.0,The Boys,https://www.imdb.com/title/tt1190634/,2019– ,Action,Eric Kripke,8.7,"['Karl Urban' 'Jack Quaid' 'Antony Starr' 'Erin Moriarty'
+ 'Jessie T. Usher' 'Laz Alonso' 'Chace Crawford' 'Tomer Capone'
+ 'Karen Fukuhara' 'Nathan Mitchell' 'Dominique McElligott' 'Colby Minifie'
+ 'Claudia Doumit' 'Nneka Elliott' 'Laila Robins' 'Aya Cash' 'Katy Breier'
+ 'Cameron Crovetti']"
+30,31.0,Grey's Anatomy,https://www.imdb.com/title/tt0413573/,2005– ,Drama,Shonda Rhimes,7.6,"['Chandra Wilson' 'James Pickens Jr.' 'Ellen Pompeo' 'Justin Chambers'
+ 'Kevin McKidd' 'Jesse Williams' 'Bokhee An' 'Patrick Dempsey'
+ 'Sara Ramirez' 'Camilla Luddington' 'Jessica Capshaw' 'Sandra Oh'
+ 'Sarah Drew' 'Caterina Scorsone' 'Kelly McCreary' 'Kim Raver'
+ 'Jason George' 'Eric Dane']"
+31,32.0,1883,https://www.imdb.com/title/tt13991232/,2021–2022,Drama,Taylor Sheridan,8.8,"['Sam Elliott' 'Tim McGraw' 'Faith Hill' 'Isabel May' 'LaMonica Garrett'
+ 'Marc Rissmann' 'Audie Rick' 'James Landry Hebert' 'Gratiela Brancusi'
+ 'Anna Fiamora' 'Malcolm Stephenson' 'Amanda Jaros' 'Jordan Walker Ross'
+ 'Stephen Austin Long' 'Konstantin Melikhov' 'Eric Nelsen' 'Noah Le Gros'
+ 'Josef Bette']"
+32,33.0,The Office,https://www.imdb.com/title/tt0386676/,2005–2013,Comedy,Greg Daniels,9.0,"['Steve Carell' 'Jenna Fischer' 'John Krasinski' 'Rainn Wilson'
+ 'Leslie David Baker' 'Brian Baumgartner' 'Angela Kinsey' 'Kate Flannery'
+ 'Phyllis Smith' 'Creed Bratton' 'Oscar Nunez' 'B.J. Novak' 'Mindy Kaling'
+ 'Ed Helms' 'Paul Lieberstein' 'Craig Robinson' 'Ellie Kemper'
+ 'Zach Woods']"
+33,34.0,Vikings: Valhalla,https://www.imdb.com/title/tt11311302/,2022– ,Action,Jeb Stuart,7.3,"['Sam Corlett' 'Leo Suter' 'Frida Gustavsson'
+ 'Johannes Haukur Johannesson' 'Laura Berlin' 'David Oakes'
+ 'Christopher Rygh' 'Taylor James' 'Kayode Akinyemi' 'James Ballanger'
+ 'Lujza Richter' 'Bradley Freegard' 'Stanislav Callas' 'Henessi Schmidt'
+ ""Charlie O'Connor"" 'Paaru Oja' ""Gavin O'Connor"" 'Florian Munteanu']"
+34,35.0,Stranger Things,https://www.imdb.com/title/tt4574334/,2016–2024,Drama,Millie Bobby Brown,8.7,"['Millie Bobby Brown' 'Finn Wolfhard' 'Winona Ryder' 'David Harbour'
+ 'Gaten Matarazzo' 'Caleb McLaughlin' 'Natalia Dyer' 'Charlie Heaton'
+ 'Joe Keery' 'Noah Schnapp' 'Cara Buono' 'Priah Ferguson' 'Sadie Sink'
+ 'Maya Hawke' 'Brett Gelman' 'Joe Chrest' 'Paul Reiser' 'Dacre Montgomery']"
+35,36.0,The Mandalorian,https://www.imdb.com/title/tt8111088/,2019– ,Action,Jon Favreau,8.7,"['Pedro Pascal' 'Carl Weathers' 'Giancarlo Esposito' 'Chris Bartlett'
+ 'Barry Lowin' 'Gina Carano' 'Leilani Shiu' 'Misty Rosas' 'Omid Abtahi'
+ 'Temuera Morrison' 'Ming-Na Wen' ""Katy M. O'Brian"" 'Rio Hackford'
+ 'Amy Sedaris' 'Emily Swallow' 'Nick Nolte' 'Werner Herzog'
+ 'Taika Waititi']"
+36,37.0,Succession,https://www.imdb.com/title/tt7660850/,2018– ,Drama,Jesse Armstrong,8.8,"['Nicholas Braun' 'Brian Cox' 'Kieran Culkin' 'Peter Friedman'
+ 'Matthew Macfadyen' 'Alan Ruck' 'Sarah Snook' 'Jeremy Strong'
+ 'J. Smith-Cameron' 'Dagmara Dominczyk' 'Justine Lupe' 'David Rasche'
+ 'Scott Nicholson' 'Hiam Abbass' 'Fisher Stevens' 'Arian Moayed'
+ 'Rob Yang' 'Juliana Canfield']"
+37,38.0,Fauda,https://www.imdb.com/title/tt4565380/,2015– ,Action,Avi Issacharoff,8.3,"['Lior Raz' 'Itzik Cohen' 'Neta Garty' 'Rona-Lee Shimon' 'Doron Ben-David'
+ 'Jonathan Avigdori' 'Assaf Cohen' 'Yaakov Zada-Daniel' 'Boaz Konforty'
+ 'Idan Amedi' 'Aylam Orian' 'Matt Gottlieb' 'Tsahi Halevi' ""Shadi Mar'i""
+ 'Laetitia Eido' 'Adam Karst' 'Meirav Shirom' 'Jameel Khoury']"
+38,39.0,Cunk on Earth,https://www.imdb.com/title/tt16867040/,2022– ,Documentary,Diane Morgan,8.3,"['Diane Morgan' 'Jim Al-Khalili' 'Shirley J. Thompson' 'Douglas Hedley'
+ 'Ruth Adams' 'Ashley Jackson' 'John Man' 'Brian Klaas' 'Nigel Spivey'
+ 'Laura Ashe' 'Paul Bahn' 'Kate Cooper' 'Martin Andrews' 'John Agar'
+ 'Lyndsay Coo' 'Kathleen Burk' 'Irving Finkel' 'Gus Casely-Hayford']"
+39,40.0,House of the Dragon,https://www.imdb.com/title/tt11198330/,2022– ,Action,Ryan J. Condal,8.5,"['Rhys Ifans' 'Matt Smith' 'Fabien Frankel' 'Graham McTavish'
+ 'Paddy Considine' 'Bill Paterson' 'Eve Best' 'Steve Toussaint'
+ 'Jefferson Hall' ""Emma D'Arcy"" 'Gavin Spokes' 'Sonoya Mizuno'
+ 'Matthew Needham' 'Olivia Cooke' 'Milly Alcock' 'Emily Carey'
+ 'David Horovitch' 'Kurt Egyiawan']"
+40,41.0,The Sopranos,https://www.imdb.com/title/tt0141842/,1999–2007,Crime,David Chase,9.2,"['James Gandolfini' 'Lorraine Bracco' 'Edie Falco' 'Michael Imperioli'
+ 'Steven Van Zandt' 'Robert Iler' 'Tony Sirico' 'Jamie-Lynn Sigler'
+ 'Dominic Chianese' 'Aida Turturro' 'Steve Schirripa' 'Drea de Matteo'
+ 'Dan Grimaldi' 'Joseph R. Gannascoli' 'Sharon Angela' 'John Ventimiglia'
+ 'Vincent Curatola' 'Frank Vincent']"
+41,42.0,New Amsterdam,https://www.imdb.com/title/tt7817340/,2018–2023,Drama,Ryan Eggold,8.0,"['Ryan Eggold' 'Janet Montgomery' 'Jocko Sims' 'Tyler Labine'
+ 'Freema Agyeman' 'Alejandro Hernandez' 'Anupam Kher' 'Debra Monk'
+ 'Matthew Jeffers' 'Megan Byrne' 'Em Grosland' 'Mike Doyle'
+ 'Christine Chang' 'Olivia Khoshatefeh' 'Stacey Raymond'
+ 'Sandra Mae Frank' 'Shiva Kalaiselvan' 'Conner Marx']"
+42,43.0,Jack Ryan,https://www.imdb.com/title/tt5057054/,2018– ,Action,Carlton Cuse,8.0,"['John Krasinski' 'Wendell Pierce' 'Michael Kelly' 'John Hoogenakker'
+ 'Kevin Kent' 'Abbie Cornish' 'Noomi Rapace' 'Nina Hoss' 'Ali Suliman'
+ 'Jordi Molla' 'Peter Guinness' 'Dina Shihabi' 'Francisco Denis'
+ 'Alexej Manvelov' 'Cristina Umana' 'James Cosmo' 'Betty Gabriel'
+ 'Jovan Adepo']"
+43,44.0,Anne Rice's Mayfair Witches,https://www.imdb.com/title/tt15428778/,2023– ,Drama,Alexandra Daddario,6.5,"['Alexandra Daddario' 'Tongayi Chirisa' 'Jack Huston' 'Harry Hamlin'
+ 'Beth Grant' 'Hannah Alline' 'Ravi Naidu' 'Jen Richards' 'Ian Hoch'
+ 'Annabeth Gish' 'Geraldine Singer' 'Emma Rose Smith' 'Madison Wolfe'
+ 'Deneen Tyler' 'Nadine Lewington' 'Keyara Milliner' 'Melissa Chambers'
+ 'Dennis Boutsikaris']"
+44,45.0,Law & Order: Special Victims Unit,https://www.imdb.com/title/tt0203259/,1999– ,Crime,Dick Wolf,8.1,"['Mariska Hargitay' 'Christopher Meloni' 'Ice-T' 'Dann Florek'
+ 'Richard Belzer' 'Kelli Giddish' 'BD Wong' 'Tamara Tunie'
+ 'Peter Scanavino' 'Raul Esparza' 'Diane Neal' 'Stephanie March'
+ 'Danny Pino' 'Mike Doyle' 'Joel de la Fuente' 'Joanna Merlin'
+ 'Caren Browning' 'Lynn Marocola']"
+45,46.0,Teen Wolf,https://www.imdb.com/title/tt1567432/,2011–2017,Action,Jeff Davis,7.7,"['Tyler Posey' 'Holland Roden' ""Dylan O'Brien"" 'Linden Ashby' 'JR Bourne'
+ 'Melissa Ponzio' 'Tyler Hoechlin' 'Shelley Hennig' 'Dylan Sprayberry'
+ 'Crystal Reed' 'Ryan Kelley' 'Arden Cho' 'Seth Gilliam' 'Ian Bohen'
+ 'Khylin Rhambo' 'Orny Adams' 'Daniel Sharman' 'Cody Christian']"
+46,47.0,Supernatural,https://www.imdb.com/title/tt0460681/,2005–2020,Drama,Eric Kripke,8.4,"['Jared Padalecki' 'Jensen Ackles' 'Jim Beaver' 'Misha Collins'
+ 'Mark Sheppard' 'Alexander Calvert' 'Mark Pellegrino' 'Samantha Smith'
+ 'Ruth Connell' 'Rob Benedict' 'Kim Rhodes' 'Osric Chau'
+ 'David Haydn-Jones' 'Curtis Armstrong' 'Lisa Berry' 'Genevieve Padalecki'
+ 'Jeffrey Dean Morgan' 'Emily Swallow']"
+47,48.0,Severance,https://www.imdb.com/title/tt11280740/,2022– ,Drama,Dan Erickson,8.7,"['Adam Scott' 'Zach Cherry' 'Britt Lower' 'Tramell Tillman' 'Jen Tullock'
+ 'Dichen Lachman' 'Michael Chernus' 'John Turturro' 'Christopher Walken'
+ 'Patricia Arquette' 'Gwendoline Christie' 'Robby Benson' 'Alia Shawkat'
+ 'Merritt Wever' 'John Noble' 'Olafur Darri Olafsson' 'Bob Balaban'
+ 'Stefano Carannante']"
+48,49.0,Star Trek: Picard,https://www.imdb.com/title/tt8806524/,2020–2023,Action,Kirsten Beyer,7.3,"['Patrick Stewart' 'Alison Pill' 'Michelle Hurd' 'Santiago Cabrera'
+ 'Jeri Ryan' 'Evan Evagora' 'Isa Briones' 'Kay Bess' 'Orla Brady'
+ 'Brent Spiner' 'Harry Treadaway' 'John de Lancie' 'Peyton List'
+ 'Sol Rodriguez' 'Annie Wersching' 'Tamlyn Tomita' 'Madeline Wise'
+ 'Dylan Von Halle']"
+49,50.0,National Treasure: Edge of History,https://www.imdb.com/title/tt12580982/,2022– ,Action,Lisette Olivera,5.4,"['Lisette Olivera' 'Zuri Reed' 'Antonio Cipriano' 'Jordan Rodrigues'
+ 'Jake Austin Walker' 'Catherine Zeta-Jones' 'Breeda Wool' 'Lyndon Smith'
+ 'Armando Riesco' 'Darri Ingolfsson' 'Salena Qureshi' 'Dustin Ingram'
+ 'Tommy Savas' 'Joseph D. Reitman' 'Jacob Vargas' 'Alejandro Edda'
+ 'Patrick Brennan' 'Kathleen York']"
+50,51.0,Andor,https://www.imdb.com/title/tt9253284/,2022– ,Action,Tony Gilroy,8.4,"['Diego Luna' 'Kyle Soller' 'Stellan Skarsgard' ""Genevieve O'Reilly""
+ 'Denise Gough' 'Adria Arjona' 'Jacob James Beswick' 'Varada Sethu'
+ 'Faye Marsay' 'Anton Lesser' 'Michael Jenn' 'Robert Emms' 'Dave Chapman'
+ 'Elizabeth Dulau' 'Joplin Sibtain' 'Alastair Mackenzie'
+ 'Bronte Carmichael' 'Noof Ousellam']"
+51,52.0,Kaleidoscope,https://www.imdb.com/title/tt15438246/,2023,Action,Eric Garcia,6.7,"['Giancarlo Esposito' 'Rufus Sewell' 'Paz Vega' 'Rosaline Elbay'
+ 'Jai Courtney' 'Tati Gabrielle' 'Peter Mark Kendall' 'Niousha Noor'
+ 'Bubba Weiler' 'Jordan Mendoza' 'Hemky Madera' 'John Hans Tester'
+ 'Soojeong Son' 'Stacey Oristano' 'Whit Washing' 'Nate Katsuki'
+ 'Patch Darragh' 'Susan Varon']"
+52,53.0,NCIS,https://www.imdb.com/title/tt0364845/,2003– ,Action,Donald P. Bellisario,7.8,"['David McCallum' 'Mark Harmon' 'Sean Murray' 'Pauley Perrette'
+ 'Brian Dietzen' 'Rocky Carroll' 'Michael Weatherly' 'Cote de Pablo'
+ 'Emily Wickersham' 'Wilmer Valderrama' 'Diona Reasonover' 'Maria Bello'
+ 'Lauren Holly' 'Joe Spano' 'Sasha Alexander' 'Duane Henry' 'Katrina Law'
+ 'Gary Cole']"
+53,54.0,Vikings,https://www.imdb.com/title/tt2306299/,2013–2020,Action,Michael Hirst,8.5,"['Katheryn Winnick' 'Gustaf Skarsgard' 'Alexander Ludwig' 'Georgia Hirst'
+ 'Alex Hogh Andersen' 'Jordan Patrick Smith' 'Marco Ilso' 'Peter Franzen'
+ 'Travis Fimmel' 'Clive Standen' 'John Kavanagh' 'Jennie Jacques'
+ 'Maude Hirst' 'Moe Dunford' 'Alyssa Sutherland' 'Linus Roache'
+ 'George Blagden' 'Adam Copeland']"
+54,55.0,Peaky Blinders,https://www.imdb.com/title/tt2442560/,2013–2022,Crime,Steven Knight,8.8,"['Cillian Murphy' 'Paul Anderson' 'Sophie Rundle' 'Helen McCrory'
+ 'Ned Dennehy' 'Finn Cole' ""Natasha O'Keeffe"" 'Ian Peck' 'Harry Kirton'
+ 'Packy Lee' 'Joe Cole' 'Annabelle Wallis' 'Kate Phillips'
+ 'Aimee-Ffion Edwards' 'Tony Pitts' 'Benjamin Zephaniah' 'Tom Hardy'
+ 'Jordan Bolger']"
+55,56.0,Ted Lasso,https://www.imdb.com/title/tt10986410/,2020– ,Comedy,Brendan Hunt,8.8,"['Jason Sudeikis' 'Brett Goldstein' 'Brendan Hunt' 'Nick Mohammed'
+ 'Hannah Waddingham' 'Jeremy Swift' 'Phil Dunster' 'Juno Temple'
+ 'Toheeb Jimoh' 'Kola Bokinni' 'Billy Harris' 'Stephen Manas'
+ 'Cristo Fernandez' 'Moe Jeudy-Lamour' 'Annette Badland' 'Adam Colborne'
+ 'Bronson Webb' 'Kevin Garry']"
+56,57.0,The Crown,https://www.imdb.com/title/tt4786824/,2016–2023,Biography,Peter Morgan,8.6,"['Claire Foy' 'Olivia Colman' 'Imelda Staunton' 'Matt Smith'
+ 'Tobias Menzies' 'Dominic West' 'Lesley Manville' 'Charles Edwards'
+ 'Elizabeth Debicki' 'Jonathan Pryce' 'Vanessa Kirby' 'Marion Bailey'
+ 'Victoria Hamilton' 'Helena Bonham Carter' 'Pip Torrens' 'Sam Phillips'
+ 'Erin Doherty' 'Will Keen']"
+57,58.0,Friends,https://www.imdb.com/title/tt0108778/,1994–2004,Comedy,David Crane,8.9,"['Jennifer Aniston' 'Courteney Cox' 'Lisa Kudrow' 'Matt LeBlanc'
+ 'Matthew Perry' 'David Schwimmer' 'James Michael Tyler' 'Elliott Gould'
+ 'Christina Pickles' 'Maggie Wheeler' 'Paul Rudd' 'Jane Sibbett'
+ 'Helen Baxendale' 'Jessica Hecht' 'June Gable' 'Tom Selleck'
+ 'Giovanni Ribisi' 'Aisha Tyler']"
+58,59.0,You,https://www.imdb.com/title/tt7335184/,2018– ,Crime,Sera Gamble,7.7,"['Penn Badgley' 'Victoria Pedretti' 'Ambyr Childers' 'Elizabeth Lail'
+ 'Tati Gabrielle' 'James Scully' 'Saffron Burrows' 'Luca Padovan'
+ 'Jenna Ortega' 'Zach Cherry' 'Shalita Grant' 'Carmela Zumbado'
+ 'Nicole Kang' 'Scott Speedman' 'Charlotte Ritchie' 'Dylan Arnold'
+ 'Ben Mehl' 'Travis Van Winkle']"
+59,60.0,It's Always Sunny in Philadelphia,https://www.imdb.com/title/tt0472954/,2005– ,Comedy,Rob McElhenney,8.8,"['Charlie Day' 'Rob McElhenney' 'Kaitlin Olson' 'Glenn Howerton'
+ 'Danny DeVito' 'Mary Elizabeth Ellis' 'David Hornsby' 'Artemis Pebdani'
+ 'Lynne Marie Stewart' 'Sandy Martin' 'David Zdunich' 'Lance Barber'
+ 'Andrew Friedman' 'Gregory Scott Cummins' 'Jimmi Simpson' 'Nate Mooney'
+ 'Michael Naughton' 'Catherine Reitman']"
+60,61.0,How I Met Your Father,https://www.imdb.com/title/tt14500082/,2022– ,Comedy,Isaac Aptaker,5.5,"['Hilary Duff' 'Christopher Lowell' 'Francia Raisa' 'Suraj Sharma'
+ 'Tom Ainsley' 'Tien Tran' 'Kim Cattrall' 'Stony Blyden' 'Josh Peck'
+ 'Ashley Reyes' 'Leighton Meester' 'Aby James' 'Daniel Augustin'
+ 'Tessa Auberjonois' 'Kyle MacLachlan' 'Laura Bell Bundy' 'Evan Shafran'
+ 'Erik Estrada Loaiza']"
+61,62.0,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,2007–2019,Comedy,Chuck Lorre,8.2,"['Johnny Galecki' 'Jim Parsons' 'Kaley Cuoco' 'Simon Helberg'
+ 'Kunal Nayyar' 'Melissa Rauch' 'Mayim Bialik' 'Kevin Sussman'
+ 'Carol Ann Susi' 'John Ross Bowie' 'Laura Spencer' 'Wil Wheaton'
+ 'Brian George' 'Christine Baranski' 'Brian Posehn' 'Laurie Metcalf'
+ 'Joshua Malina' 'Ian Scott Rudolph']"
+62,63.0,The Ark,https://www.imdb.com/title/tt17371078/,2023– ,Drama,Dean Devlin,3.6,"['Christie Burke' 'Reece Ritchie' 'Richard Fleeshman' 'Stacey Read'
+ 'Ryan Adams' 'Pavle Jerinic' 'Shalini Peiris' 'Christina Wolfe'
+ 'Tiana Upcheva' 'Lisa Brenner' 'Miles Barrow' 'Steven William Moore'
+ 'Jelena Moore' 'Dominik Cicak' 'Chris Leask' 'Tamara Radovanovic'
+ 'Michael Stokey' 'Milos Cvetkovic']"
+63,64.0,The Blacklist,https://www.imdb.com/title/tt2741602/,2013–2023,Crime,Jon Bokenkamp,8.0,"['James Spader' 'Megan Boone' 'Diego Klattenhoff' 'Ryan Eggold'
+ 'Harry Lennix' 'Hisham Tawfiq' 'Amir Arison' 'Mozhan Marno' 'Laura Sohn'
+ 'Susan Blommaert' 'Baz' 'Teddy Coluca' 'Deirdre Lovejoy'
+ 'Genson Blimline' 'Parminder Nagra' 'Jonathan Holtzman' 'Diany Rodriguez'
+ 'Emily Kell']"
+64,65.0,Fire Country,https://www.imdb.com/title/tt16098700/,2022– ,Drama,Tony Phelan,7.2,"['Max Thieriot' 'Kevin Alejandro' 'Jordan Calloway' 'Stephanie Arcila'
+ 'Jules Latimer' 'Diane Farr' 'Billy Burke' 'W. Tre Davis'
+ 'Michael Trucco' 'Tom Pickett' 'Fiona Rene' 'Kaylah Zander'
+ 'Sabina Gadecki' 'Mark Krysko' 'Zach Tinker' 'Jade Pettyjohn' 'Ty Olsson'
+ 'Hilary Jardine']"
+65,66.0,The Watchful Eye,https://www.imdb.com/title/tt15422758/,2023– ,Drama,Julie Durk,6.1,"['Mariel Molino' 'Warren Christie' 'Amy Acker' 'Jon-Michael Ecker'
+ 'Aliyah Royale' 'Baraka Rahmani' 'Henry Joseph Samiri' 'Kelly Bishop'
+ 'Grace Kaufman' 'Christopher Redman' 'Andres Velez' 'Lex Lumpkin'
+ 'Clare Filipow' 'Megan Best' 'Emily Tennant' 'Lachlan Quarmby'
+ 'Aaron Douglas' 'Dhirendra']"
+66,67.0,Bosch,https://www.imdb.com/title/tt3502248/,2014–2021,Crime,Eric Ellis Overmyer,8.5,"['Titus Welliver' 'Jamie Hector' 'Amy Aquino' 'Lance Reddick'
+ 'Madison Lintz' 'Troy Evans' 'DaJuan Johnson' 'Gregory Scott Cummins'
+ 'Scott Klace' 'Mimi Rogers' 'Paul Calderon' 'Deji LaRay' 'Linda Park'
+ 'Jacqueline Obradors' 'Sarah Clarke' 'Daya Vaidya' 'John Eddins'
+ 'Steven Culp']"
+67,68.0,Servant,https://www.imdb.com/title/tt8068860/,2019–2023,Drama,Tony Basgallop,7.5,"['Lauren Ambrose' 'Toby Kebbell' 'Nell Tiger Free' 'Rupert Grint'
+ 'Phillip James Brannon' 'James Hoogerwerff' 'Jack Hoogerwerff'
+ 'Tony Revolori' 'Mathilde Dehaye' 'Molly Griggs' 'Mason Belford'
+ 'Julius Belford' 'Mac Rop' 'Boris McGiver' 'Caiden Ravenscroft'
+ 'Cole Hillenmayer' 'Luka Ravenscroft' 'Austin Hillenmayer']"
+68,69.0,Willow,https://www.imdb.com/title/tt10278918/,2022– ,Action,Jonathan Kasdan,5.6,"['Ruby Cruz' 'Ellie Bamber' 'Tony Revolori' 'Erin Kellyman'
+ 'Amar Chadha-Patel' 'Warwick Davis' 'Dempsey Bryk' 'Joonas Suotamo'
+ 'Claudia Hughes' 'Joanne Whalley' 'Rosabell Laurenti Sellers'
+ 'Ralph Ineson' 'Daniel Naprous' 'Vitas Le Bas' 'Graham Hughes'
+ 'Sifiso Mazibuko' 'Kenny Knight' 'Derek Horsham']"
+69,70.0,Laverne & Shirley,https://www.imdb.com/title/tt0074016/,1976–1983,Comedy,Lowell Ganz,7.0,"['Penny Marshall' 'Cindy Williams' 'David L. Lander' 'Eddie Mekka'
+ 'Michael McKean' 'Phil Foster' 'Betty Garrett' 'Leslie Easterbrook'
+ 'Carole White' 'Ed Marinaro' 'Bo Kaprall' 'Lynne Marie Stewart'
+ 'Harry Shearer' 'William Sumper' 'Vicki Lawrence' 'Doris Hess'
+ 'Rose Michtom' 'Susan Barnes']"
+70,71.0,Will Trent,https://www.imdb.com/title/tt17543592/,2023– ,Crime,Liz Heldens,7.6,"['Ramon Rodriguez' 'Erika Christensen' 'Iantha Richardson'
+ 'Jake McLaughlin' 'Sonja Sohn' 'Deion Smith' 'Kevin Daniels'
+ 'Todd Allen Durkin' 'Kurt Yue' 'Cora Lu Tran' 'Jennifer Morrison'
+ 'Mark-Paul Gosselaar' ""Aline O'Neill"" 'Isaiah Stratton' 'Gara Coffey'
+ 'Julia Chan' 'Derek Evans' 'Michael Fairman']"
+71,72.0,Night Court,https://www.imdb.com/title/tt13798316/,2023– ,Comedy,Dan Rubin,5.8,"['Melissa Rauch' 'India de Beaufort' 'John Larroquette' 'Lacretta'
+ 'Kapil Talwalkar' 'Dimiter D. Marinov' 'Wendie Malick' 'Danny Araujo'
+ 'Brian Scolaro' 'Kimia Behpoornia' 'Iris Bahr' 'Garrett Bales'
+ 'Maria Pallas' 'Brendan Jennings' 'Marypat Farrell' 'Will Hines'
+ 'Aaron Coleman' 'Kenneth Mosley']"
+72,73.0,True Detective,https://www.imdb.com/title/tt2356777/,2014–2019,Crime,Nic Pizzolatto,8.9,"['Vince Vaughn' 'Colin Farrell' 'Rachel McAdams' 'Taylor Kitsch'
+ 'Matthew McConaughey' 'Mahershala Ali' 'Woody Harrelson' 'Carmen Ejogo'
+ 'Michelle Monaghan' 'Stephen Dorff' 'Michael Potts' 'Kelly Reilly'
+ 'Scoot McNairy' 'Tory Kittles' 'Ray Fisher' 'Chris Kerson'
+ 'Ritchie Coster' 'Sarah Gadon']"
+73,74.0,Modern Family,https://www.imdb.com/title/tt1442437/,2009–2020,Comedy,Steven Levitan,8.5,"[""Ed O'Neill"" 'Sofia Vergara' 'Julie Bowen' 'Ty Burrell'
+ 'Jesse Tyler Ferguson' 'Eric Stonestreet' 'Rico Rodriguez' 'Sarah Hyland'
+ 'Nolan Gould' 'Ariel Winter' 'Aubrey Anderson-Emmons' 'Jeremy Maguire'
+ 'Reid Ewing' 'Beatrice the Dog' 'Pierce Wallace' 'Adam Devine'
+ 'Fred Willard' 'Dana Powell']"
+74,75.0,24,https://www.imdb.com/title/tt0285331/,2001–2010,Action,Robert Cochran,8.4,"['Kiefer Sutherland' 'Mary Lynn Rajskub' 'Carlos Bernard'
+ 'Dennis Haysbert' 'Elisha Cuthbert' 'James Morrison' 'Reiko Aylesworth'
+ 'Jude Ciccolella' 'Kim Raver' 'Glenn Morshower' 'D.B. Woodside'
+ 'Roger Cross' 'Penny Johnson Jerald' 'Cherry Jones' 'Gregory Itzin'
+ 'Annie Wersching' 'Louis Lombardi' 'Sarah Clarke']"
+75,76.0,Night Court,https://www.imdb.com/title/tt0086770/,1984–1992,Comedy,Reinhold Weege,7.7,"['Harry Anderson' 'John Larroquette' 'Richard Moll' 'Charles Robinson'
+ 'Markie Post' 'Marsha Warfield' 'Dorothy Andrews' 'Charlotte Portney'
+ 'Joleen Lutz' 'Mike Finneran' 'Selma Diamond' 'William Utay'
+ 'Florence Halop' 'S. Marc Jordan' 'Ellen Foley' 'Denice Kumagai'
+ 'Karen Austin' 'Paula Kelly']"
+76,77.0,Women at War,https://www.imdb.com/title/tt14579330/,2022,Drama,Cécile Lorne,7.5,"['Audrey Fleurot' 'Julie De Bona' 'Camille Lou' 'Sofia Essaidi'
+ 'Sandrine Bonnaire' 'Tcheky Karyo' 'Laurent Gerra' 'Tom Leeb'
+ 'Yannick Choirat' 'Gregoire Colin' 'Vincent Rottiers'
+ 'Florence Loiret Caille' 'Maxence Danet-Fauvel' 'Eden Ducourant'
+ 'Pascal Houdus' 'Michael Vander-Meiren' 'Stacy Grewis Belotti'
+ 'Emmanuelle Bouaziz']"
+77,78.0,Vera,https://www.imdb.com/title/tt1693592/,2011– ,Crime,Brenda Blethyn,8.1,"['Brenda Blethyn' 'Jon Morrison' 'Riley Jones' 'Kenny Doughty'
+ 'Ibinabo Jack' 'David Leon' 'Kingsley Ben-Adir' 'Paul Kaye' 'Paul Ritter'
+ 'Tom Hutch' 'Sonya Cassidy' 'Lisa Hammond' 'Cush Jumbo' 'Clare Calbraith'
+ 'Noof Ousellam' 'Wunmi Mosaku' 'Grant Crookes' 'Paul Fitzpatrick']"
+78,79.0,Young Sheldon,https://www.imdb.com/title/tt6226232/,2017– ,Comedy,Steven Molaro,7.6,"['Iain Armitage' 'Zoe Perry' 'Lance Barber' 'Montana Jordan'
+ 'Raegan Revord' 'Jim Parsons' 'Annie Potts' 'Wallace Shawn'
+ 'Wyatt McClure' 'Matt Hobby' 'Doc Farrow' 'Craig T. Nelson' 'Ryan Phuong'
+ 'Melissa Peterman' 'Ed Begley Jr.' 'Rex Linn' 'Brian Stepanek'
+ 'Nancy Linehan Charles']"
+79,80.0,Attack on Titan,https://www.imdb.com/title/tt2560140/,2013–2023,Animation,Josh Grelle,9.0,"['Josh Grelle' 'Bryce Papenbrook' 'Yuki Kaji' 'Yui Ishikawa'
+ 'Marina Inoue' 'Trina Nishimura' 'Kisho Taniyama' 'Clifford Chapin'
+ 'Hiro Shimono' 'Mike McFarland' 'Romi Park' 'Matthew Mercer'
+ 'Jessica Calvello' 'Hiroshi Kamiya' 'Yoshimasa Hosoya' 'Yu Kobayashi'
+ 'Robert McCollum' 'Ashly Burch']"
+80,81.0,His Dark Materials,https://www.imdb.com/title/tt5607976/,2019–2022,Adventure,Jack Thorne,7.8,"['Dafne Keen' 'Kit Connor' 'Ruth Wilson' 'Amir Wilson' 'Will Keen'
+ 'Brian Fisher' 'Ariyon Bakare' 'Simone Kirby' 'Ruta Gedmintas'
+ 'Lin-Manuel Miranda' 'Lewin Lloyd' 'Frank Bourke' 'Joe Tandberg'
+ 'Cristela Alonzo' 'James McAvoy' 'Jade Anouka' 'Andrew Scott'
+ 'Jamie Wilkes']"
+81,82.0,Bones,https://www.imdb.com/title/tt0460627/,2005–2017,Comedy,Hart Hanson,7.8,"['Emily Deschanel' 'David Boreanaz' 'Michaela Conlin' 'T.J. Thyne'
+ 'Tamara Taylor' 'John Francis Daley' 'Eric Millegan' 'John Boyd'
+ 'Patricia Belcher' 'Michael Grant Terry' 'Eugene Byrd' 'Carla Gallo'
+ 'Pej Vahdat' 'Sunnie Pelant' ""Ryan O'Neal"" 'Jonathan Adams'
+ 'Joel David Moore' 'Susanne Allan Hartman']"
+82,83.0,Euphoria,https://www.imdb.com/title/tt8772296/,2019– ,Drama,Sam Levinson,8.4,"['Zendaya' 'Hunter Schafer' 'Angus Cloud' 'Jacob Elordi' 'Maude Apatow'
+ 'Alexa Demie' 'Sydney Sweeney' 'Barbie Ferreira' 'Nika King'
+ ""Javon 'Wanna' Walton"" 'Eric Dane' 'Storm Reid' 'Austin Abrams'
+ 'Alanna Ubach' 'Algee Smith' 'Paula Marshall' 'John Ales' 'Tyler Chase']"
+83,84.0,Doctor Who,https://www.imdb.com/title/tt0436992/,2005– ,Adventure,Sydney Newman,8.6,"['Jodie Whittaker' 'Peter Capaldi' 'Pearl Mackie' 'Matt Smith'
+ 'David Tennant' 'Nicholas Briggs' 'Jon Davey' 'Jenna Coleman'
+ 'Paul Kasey' 'Karen Gillan' 'Billie Piper' 'Mandip Gill' 'Simon Carew'
+ 'Arthur Darvill' 'Bradley Walsh' 'Barnaby Edwards' 'Tosin Cole'
+ 'Ruari Mears']"
+84,85.0,Alice in Borderland,https://www.imdb.com/title/tt10795658/,2020– ,Action,Kento Yamazaki,7.7,"['Kento Yamazaki' 'Tao Tsuchiya' 'Nijiro Murakami' 'Eleanor Noble'
+ 'Daniel Rindress-Kay' 'Aya Asahina' 'Juliette Gosselin' 'Daniel Brochu'
+ 'Yutaro Watanabe' 'Liz MacRae' 'Ayaka Miyoshi' 'Dori Sakurada'
+ 'Yuki Morinaga' 'Keita Machida' 'Sho Aoyagi' 'Mark Hauser' 'Wyatt Bowen'
+ 'Julian Stamboulieh']"
+85,86.0,The Bear,https://www.imdb.com/title/tt14452776/,2022– ,Comedy,Christopher Storer,8.4,"['Jeremy Allen White' 'Ebon Moss-Bachrach' 'Ayo Edebiri' 'Lionel Boyce'
+ 'Liza Colon-Zayas' 'Edwin Lee Gibson' 'Corey Hendrix' 'Richard Esteras'
+ 'Jose M. Cervantes' 'Abby Elliott' 'Matty Matheson' 'Chris Witaske'
+ 'Joel McHale' 'Carmen Christopher' 'Christopher Zucchero' 'Oliver Platt'
+ 'Jon Bernthal' 'Millie Hurley']"
+86,87.0,Suits,https://www.imdb.com/title/tt1632701/,2011–2019,Comedy,Aaron Korsh,8.5,"['Gabriel Macht' 'Patrick J. Adams' 'Meghan Duchess of Sussex'
+ 'Sarah Rafferty' 'Rick Hoffman' 'Gina Torres' 'Amanda Schull'
+ 'Wendell Pierce' 'Dule Hill' 'Aloma Wright' 'Rachael Harris'
+ 'Katherine Heigl' 'Christina Cole' 'Max Topplin' 'Neal McDonough'
+ 'David Costabile' 'D.B. Woodside' 'Ray Proscia']"
+87,88.0,Slow Horses,https://www.imdb.com/title/tt5875444/,2022– ,Drama,Gary Oldman,7.9,"['Gary Oldman' 'Jack Lowden' 'Kristin Scott Thomas' 'Saskia Reeves'
+ 'Chris Reilly' 'Rosalind Eleazar' 'Christopher Chung'
+ 'Aimee-Ffion Edwards' 'Kadiff Kirwan' 'Dustin Demri-Burns' 'Freddie Fox'
+ 'Sophie Okonedo' 'Antonio Aakeel' 'Samuel West' 'Bally Gill'
+ 'Sope Dirisu' 'David Walmsley' 'Stephen Walters']"
+88,89.0,Seinfeld,https://www.imdb.com/title/tt0098904/,1989–1998,Comedy,Larry David,8.9,"['Jerry Seinfeld' 'Julia Louis-Dreyfus' 'Michael Richards'
+ 'Jason Alexander' 'Ruth Cohen' 'Wayne Knight' 'Norman Brenner'
+ 'Heidi Swedberg' 'Estelle Harris' 'Jerry Stiller' 'Liz Sheridan'
+ ""John O'Hurley"" 'Barney Martin' 'Len Lesser' 'Deck McKenzie'
+ 'Richard Herd' 'Peggy Lane' 'Richard Fancy']"
+89,90.0,The Wire,https://www.imdb.com/title/tt0306414/,2002–2008,Crime,David Simon,9.3,"['Dominic West' 'Lance Reddick' 'Sonja Sohn' 'Wendell Pierce' 'John Doman'
+ 'Deirdre Lovejoy' 'Seth Gilliam' 'Domenick Lombardozzi' 'Clarke Peters'
+ 'Andre Royo' 'Michael Kenneth Williams' 'Jim True-Frost' 'Frankie Faison'
+ 'Corey Parker Robinson' 'Delaney Williams' 'J.D. Williams' 'Wood Harris'
+ 'Idris Elba']"
+90,91.0,Death in Paradise,https://www.imdb.com/title/tt1888075/,2011– ,Comedy,Robert Thorogood,7.8,"['Elizabeth Bourgine' 'Don Warrington' 'Danny John-Jules' 'Tobi Bakare'
+ 'Josephine Jobert' 'Ralf Little' 'Kris Marshall' 'Sara Martins'
+ ""Ardal O'Hanlon"" 'Gary Carr' 'Tahj Miles' 'Ben Miller' 'Shantol Jackson'
+ 'Ginny Holder' 'Shyko Amos' 'Aude Legastelois' 'Leemore Marrett Jr.'
+ 'Grace Stone']"
+91,92.0,Graymail,https://www.imdb.com/title/tt16030542/,2022– ,Action,Alexi Hawley,7.5,"['Noah Centineo' 'Laura Haddock' 'Aarti Mann' 'Colton Dunn'
+ 'Vondie Curtis-Hall' 'Fivel Stewart' 'Daniel Quincy Annoh'
+ 'Kaylah Zander' 'Kristian Bruun' 'Angel Parker' 'Jesse Collin'
+ 'Jake Lewis' 'Byron Mann' 'Pauline Little'
+ 'Victor Andres Turgeon-Trelles' 'David Denman' 'Alexandra Petrachuk'
+ 'Katharine King So']"
+92,93.0,Midsomer Murders,https://www.imdb.com/title/tt0118401/,1997– ,Crime,Caroline Graham,7.9,"['John Nettles' 'Jane Wymark' 'Barry Jackson' 'Neil Dudgeon'
+ 'Fiona Dolman' 'Jason Hughes' 'Laura Howard' 'Daniel Casey' 'Sykes'
+ 'Nick Hendrix' 'Kirsty Dillon' 'Annette Badland' 'Tamzin Malleson'
+ 'Gwilym Lee' 'John Hopkins' 'Manjinder Virk' 'Isabel Shaw' 'Neil Conrich']"
+93,94.0,Chernobyl,https://www.imdb.com/title/tt7366338/,2019,Drama,Craig Mazin,9.4,"['Jessie Buckley' 'Jared Harris' 'Stellan Skarsgard' 'Adam Nagaitis'
+ 'Emily Watson' 'Paul Ritter' 'Robert Emms' 'Sam Troughton' 'Karl Davies'
+ 'Michael Socha' 'Laura Elphinstone' 'Jan Ricica' 'Adrian Rawlins'
+ 'Alan Williams' ""Con O'Neill"" 'Douggie McMeekin' 'Nadia Clifford'
+ 'David Dencik']"
+94,95.0,Chernobyl,https://www.imdb.com/title/tt2861424/,2019,Drama,Craig Mazin,9.4,"['Jessie Buckley' 'Jared Harris' 'Stellan Skarsgard' 'Adam Nagaitis'
+ 'Emily Watson' 'Paul Ritter' 'Robert Emms' 'Sam Troughton' 'Karl Davies'
+ 'Michael Socha' 'Laura Elphinstone' 'Jan Ricica' 'Adrian Rawlins'
+ 'Alan Williams' ""Con O'Neill"" 'Douggie McMeekin' 'Nadia Clifford'
+ 'David Dencik']"
+95,96.0,American Horror Story,https://www.imdb.com/title/tt1844624/,2011– ,Drama,Brad Falchuk,8.0,"['Lady Gaga' 'Kathy Bates' 'Angela Bassett' 'Sarah Paulson' 'Evan Peters'
+ ""Denis O'Hare"" 'Lily Rabe' 'Frances Conroy' 'Jessica Lange'
+ 'Billie Lourd' 'Emma Roberts' 'Leslie Grossman' 'Cheyenne Jackson'
+ 'Adina Porter' 'Taissa Farmiga' 'Finn Wittrock' 'Zachary Quinto'
+ 'Wes Bentley']"
+96,97.0,Black Mirror,https://www.imdb.com/title/tt2085059/,2011–2019,Drama,Charlie Brooker,8.8,"['Daniel Lapaine' 'Hannah John-Kamen' 'Michaela Coel'
+ 'Beatrice Robertson-Jones' 'Charles Babalola' 'Aaron Paul' 'Anjana Vasan'
+ 'Toby Kebbell' 'Rory Kinnear' 'Daniel Kaluuya' 'Hayley Atwell'
+ 'Lenora Crichlow' 'Daniel Rigby' 'Jon Hamm' 'Bryce Dallas Howard'
+ 'Kelly Macdonald' 'Gugu Mbatha-Raw' 'Wyatt Russell']"
+97,98.0,Shameless,https://www.imdb.com/title/tt1586680/,2011–2021,Comedy,Paul Abbott,8.6,"['Emmy Rossum' 'William H. Macy' 'Ethan Cutkosky' 'Jeremy Allen White'
+ 'Shanola Hampton' 'Steve Howey' 'Emma Kenney' 'Cameron Monaghan'
+ 'Michael Patrick McGill' 'Noel Fisher' 'Jim Hoffmaster' 'Brenden Sims'
+ 'Isidora Goreshter' 'Christian Isaiah' 'Joan Cusack' 'Justin Chatwin'
+ 'Scott Michael Campbell' 'Kate Miner']"
+98,99.0,The Addams Family,https://www.imdb.com/title/tt0057729/,1964–1966,Comedy,David Levy,8.0,"['John Astin' 'Carolyn Jones' 'Jackie Coogan' 'Ted Cassidy' 'Marie Blake'
+ 'Lisa Loring' 'Ken Weatherwax' 'Thing' 'Felix Silla' 'Parley Baer'
+ 'Eddie Quillan' 'Vito Scotti' 'Allyn Joslyn' 'Margaret Hamilton'
+ 'Bill Baldwin' 'Jimmy Cross' 'Rolfe Sedan' 'Leonard Bremen']"
+99,100.0,Star Wars: The Bad Batch,https://www.imdb.com/title/tt12708542/,2021– ,Animation,Jennifer Corbett,7.8,"['Ming-Na Wen' 'Dee Bradley Baker' 'Michelle Ang' 'Noshir Dalal'
+ 'Rhea Perlman' ""Liam O'Brien"" 'Sam Riegel' 'Ben Diskin' 'Bob Bergen'
+ 'Stephen Stanton' 'Gwendoline Yeo' 'Matthew Wood' 'Shelby Young'
+ 'Corey Burton' 'Phil LaMarr' 'Tina Huang' 'Ness Bautista'
+ 'Jonathan Lipow']"
