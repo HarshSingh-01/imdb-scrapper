@@ -3,7 +3,14 @@ This project is for scrapping the IMDB website.
 
 ## How to run:
 
-### 1. Install dependencies
+
+### 1. Clone Repository
+```sh
+git clone https://github.com/HarshSingh-01/imdb-scrapper
+cd imdb-scrapper
+```
+
+### 2. Install dependencies
 
 #### Windows
 ```sh
