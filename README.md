@@ -22,7 +22,7 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-### 2. Run Jupyter notebook server
+### 3. Run Jupyter notebook server
 ```sh
 jupyter notebook
 ```
@@ -33,7 +33,7 @@ jupyter notebook
 jupyter lab
 ```
 
-### 3. Stop the server after running the file
+### 4. Stop the server after running the file
 Press: Ctrl + C to stop the jupyter server
 
 ### License:
